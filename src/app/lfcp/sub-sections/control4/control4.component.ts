@@ -11,11 +11,11 @@ export class Control4Component implements OnInit {
 
   ngOnInit() {
 
-    console.log("items" , this.items$)
-    this.items$      
-    .subscribe((data) => {
-      console.log("data", data)
-    }
+    console.log("items", this.items$)
+    this.items$
+      .subscribe((data) => {
+        console.log("data", data)
+      })
   }
 
 }
