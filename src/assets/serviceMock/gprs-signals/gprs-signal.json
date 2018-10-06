@@ -1,0 +1,123 @@
+{
+    "gprsRecordId": "121212121",
+    "source": "source",
+    "processingStatus": "PROCESSED",
+    "creationDate": 1507720065000,
+    "lastUpdateDate": 1507720065000,
+    "internationalName": "internationalName",
+    "submissionType": "CDS Safety 3 months",
+    "globalSubmissionNumber": "IMA2006-332",
+    "trackwiseNumber": "trackwiseNumber",
+    "submissionDescription": "submissionDescription",
+    "reasonForUpdate": "reasonForUpdate",
+    "multiMarketMakeup": "multiMarketMakeup",
+    "country": "country",
+    "region": "region",
+    "expectedSubmissionDate": 1507720065000,
+    "actualSubmissionDate": 1507720065000,
+    "expectedFinalOutcomeDate": 1507720065000,
+    "actualFinalOutcomeDate": 1507720065000,
+    "finalOutcomeStatus": "finalOutcomeStatus",
+    "finalContentAvailabilityDate": 1507720065000,
+    "recordStatus": "recordStatus",
+    "gprsRequestType": "gprsRequestType",
+    "gprsRequestStatus": "gprsRequestStatus",
+    "requestNotApplicable": "requestNotApplicable",
+    "gprsBundleId": "gprsBundleId",
+    "cdsDetails": "cdsDetails",
+    "artworksImpacted": "artworksImpacted",
+    "processingMessages": [
+        {
+            "id": 1,
+            "errorMessage": "No record found in PLD for country EE and product family COTELLIC.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 2,
+            "errorMessage": "No record found in PLD for country LV and product family COTELLIC.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 3,
+            "errorMessage": "No record found in PLD for country LT and product family COTELLIC.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 4,
+            "errorMessage": "No record found in PLD for country LU and product family COTELLIC.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 5,
+            "errorMessage": "The country FI is not the leading country of the makeup SE found in PLD; therefore no request was created or updated using this makeup.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 6,
+            "errorMessage": "The country IE is not the leading country of the makeup GB found in PLD; therefore no request was created or updated using this makeup.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 7,
+            "errorMessage": "No record found in PLD for country MT and product family COTELLIC.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        },
+        {
+            "id": 8,
+            "errorMessage": "No record found in PLD for country CY and product family COTELLIC.",
+            "creationDate": 1507720065000,
+            "requestNumber": "201697"
+        }
+    ],
+    "artworkRequests": [
+        {
+            "request": 201697,
+            "status": {
+                "code": "CREATED",
+                "label": "Created"
+            },
+            "productFamilyCode": "17798",
+            "multimarketMakeup": {
+                "code": "EFA",
+                "label": "ENGLISH-FRENCH-ARABIC"
+            },
+            "country": "SE",
+            "primaryRequestType": "test data"
+        },
+        {
+            "request": 201698,
+            "status": {
+                "code": "CREATED",
+                "label": "Created"
+            },
+            "productFamilyCode": "17738",
+            "multimarketMakeup": {
+                "code": "EFA",
+                "label": "ENGLISH-FRENCH-ARABIC"
+            },
+            "country": "GB",
+            "primaryRequestType": "test data"
+        },
+        {
+            "request": 201699,
+            "status": {
+                "code": "CREATED",
+                "label": "Created"
+            },
+            "productFamilyCode": "17798",
+            "multimarketMakeup": {
+                "code": "FE",
+                "label": "FAR EAST"
+            },
+            "country": "DE",
+            "primaryRequestType": "test data"
+        }
+    ]
+}

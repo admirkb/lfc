@@ -1,0 +1,256 @@
+{
+  "requestNumber": "201575",
+  "fgNumber": "10008111",
+  "milestones": [
+    {
+      "milestone": "ASSESSMENT",
+      "label": "Assessment End Date",
+      "currentDate": "Jan 9, 2017 12:00:00 AM",
+      "newDate": null
+    },
+    {
+      "milestone": "DETAILING",
+      "label": "Detailing Start Date",
+      "currentDate": "Jan 9, 2017 12:00:00 AM",
+      "newDate": null
+    },
+    {
+      "name": "UPLOAD_MANUSCRIPT_DATE",
+      "label": "Manuscript Upload",
+      "currentDate": "Jan 5, 2017 12:00:00 AM",
+      "newDate": "Jan 9, 2017 12:00:00 AM"
+    },
+    {
+      "name": "PDF_4_HA_SUBMISSION_APPROVAL",
+      "label": "PDF 4 HA Submission Date",
+      "currentDate": null,
+      "newDate": null
+    },
+    {
+      "name": "CLOCK_START_DATE",
+      "label": "Clock Start",
+      "currentDate": "Jan 9, 2017 12:00:00 AM UTC",
+      "newDate": "Jan 12, 2017 12:00:00 AM",
+      "displayType": "DRIVER"
+    },
+    {
+      "name": "TARGET_BOA_DEPLOYMENT_DATE",
+      "label": "Target BoA Deployment",
+      "currentDate": null,
+      "newDate": null,
+      "displayType": "INFO"
+    },
+    {
+      "milestone": "EPRD",
+      "label": "EPRD",
+      "currentDate": "Jan 9, 2017 12:00:00 AM",
+      "newDate": null
+    }
+  ],
+  "planSteps": [
+    {
+      "name": "ASSESSMENT",
+      "label": "Assessment",
+      "startDate": null,
+      "endDate": "Nov 24, 2017 11:55:42 AM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false,
+      "errorMessage": "New start date is not correct!",
+      "modified": {
+        "leadTime": false,
+        "startDate": true,
+        "endDate": false
+      }
+    },
+    {
+      "name": "DETAILING",
+      "label": "Detailing",
+      "startDate": "Nov 24, 2017 11:55:42 AM",
+      "endDate": null,
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false,
+      "errorMessage": null,
+      "modified": {
+        "leadTime": false,
+        "startDate": true,
+        "endDate": false
+      }
+    },
+    {
+      "name": "UPLOAD_MANUSCRIPT",
+      "label": "Upload manuscript",
+      "startDate": null,
+      "endDate": "Nov 26, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false
+    },
+    {
+      "name": "CREATE_PDF",
+      "label": "Create pdf",
+      "startDate": "Nov 25, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 27, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false,
+      "editable": true,
+      "editableFields": [
+        "startDate",
+        "leadTimeCurrent"
+      ],
+      "errorMessage": null,
+      "modified": {
+        "leadTime": false,
+        "startDate": true,
+        "endDate": true
+      }
+    },
+    {
+      "name": "PROOF_READING",
+      "label": "Proof reading",
+      "startDate": "Nov 25, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 27, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false,
+      "editable": true,
+      "editableFields": [
+        "leadTimeCurrent",
+        "startDate",
+        "endDate"
+      ],
+      "errorMessage": null,
+      "warningMessage": "This is a test warning about some field",
+      "modified": {
+        "leadTime": true,
+        "startDate": false,
+        "endDate": false
+      }
+    },
+    {
+      "name": "PDF_UPLOAD",
+      "label": "Pdf upload",
+      "startDate": "Nov 28, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 28, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": true,
+      "editableFields": [
+        "leadTimeCurrent",
+        "startDate",
+        "endDate"
+      ],
+      "errorMessage": "Data is not correct",
+      "modified": {
+        "leadTime": true,
+        "startDate": true,
+        "endDate": true
+      }
+    },
+    {
+      "name": "PDF_4_HA_SUBMISSION_APPROVAL",
+      "label": "Pdf 4 HA Submission_Approval",
+      "milestone": true,
+      "currentDate": "Nov 28, 2017 2:47:42 PM UTC",
+      "newDate": null,
+      "displayType": "DRIVER"
+    },
+    {
+      "name": "CLOCK_START_DATE",
+      "label": "Clock Start",
+      "milestone": true,
+      "currentDate": null,
+      "newDate": "Nov 28, 2017 2:47:42 PM UTC",
+      "editable": true,
+      "editableFields": []
+    },
+    {
+      "name": "TECHNICAL_PDF_BOA_APPROVAL",
+      "label": "Technical Pdf BOA Approval",
+      "startDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false,
+      "displayType": "INFO",
+      "editableFields": [
+        "leadTimeCurrent",
+        "startDate",
+        "endDate"
+      ]
+    },
+    {
+      "name": "REGULATORY_PDF_APPROVAL",
+      "label": "Regulatory_pdf_approval",
+      "startDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false
+    },
+    {
+      "name": "QA_BOA_APPROVAL",
+      "label": "qa_boa_approval",
+      "startDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false
+    },
+    {
+      "name": "BOM_ACTIVATION",
+      "label": "bom_activation",
+      "startDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "endDate": "Nov 30, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false
+    },
+    {
+      "name": "BULK_PRODUCTION",
+      "label": "bulk_production",
+      "startDate": "Dec 01, 2017 2:47:42 PM UTC",
+      "endDate": "Dec 01, 2017 2:47:42 PM UTC",
+      "leadTimeMin": 2,
+      "leadTimeCurrent": 2,
+      "leadTimeDefault": 2,
+      "delayed": false,
+      "milestone": false
+    },
+    {
+      "label": "Earliest Possible Receipt Date",
+      "name": "EPRD",
+      "milestone": true,
+      "currentDate": "Dec 01, 2017 2:47:42 PM UTC",
+      "newDate": null
+    },
+    {
+      "label": "Earliest Delivery ex Affiliate",
+      "name": "EDDA",
+      "milestone": true,
+      "currentDate": "Dec 01, 2017 2:47:42 PM UTC",
+      "newDate": null
+    }
+  ]
+}

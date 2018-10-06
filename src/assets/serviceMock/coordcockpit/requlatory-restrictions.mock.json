@@ -1,0 +1,286 @@
+{
+  "items": [
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "shippingRestriction": true,
+      "country": "PY",
+      "eventType": {
+        "code": "LATEST_DATE_AFFILIATE_RELEASE",
+        "label": "Latest Date Affiliate Release"
+      },
+      "duration": 6,
+      "deviation": null,
+      "justification": null,
+      "clockStartDate": 1523491200000,
+      "gpEndDate": 1539302400000,
+      "instanceID": "467"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "shippingRestriction": true,
+      "country": "PY",
+      "eventType": {
+        "code": "LATEST_DATE_DELIVERY_AFFILIATE",
+        "label": "Latest Date Delivery ex Affiliate"
+      },
+      "duration": 12,
+      "deviation": null,
+      "justification": null,
+      "clockStartDate": 1523491200000,
+      "gpEndDate": 1555027200000,
+      "instanceID": "468"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "shippingRestriction": true,
+      "country": "BO",
+      "eventType": {
+        "code": "LATEST_DATE_AFFILIATE_RELEASE",
+        "label": "Latest Date Affiliate Release"
+      },
+      "duration": 6,
+      "deviation": null,
+      "justification": null,
+      "clockStartDate": 1523491200000,
+      "gpEndDate": 1539302400000,
+      "instanceID": "469"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "shippingRestriction": true,
+      "country": "BO",
+      "eventType": {
+        "code": "LATEST_DATE_DELIVERY_AFFILIATE",
+        "label": "Latest Date Delivery ex Affiliate"
+      },
+      "duration": 12,
+      "deviation": null,
+      "justification": null,
+      "clockStartDate": 1523491200000,
+      "gpEndDate": 1555027200000,
+      "instanceID": "470"
+    }
+  ],
+  "possibleIcons": [],
+  "dictionaries": {},
+  "table": {
+    "tableName": "COCO_REQUEST_RESTRICTION",
+    "selectedVariant": {
+      "variantId": 0,
+      "variantName": "Default",
+      "readOnly": true,
+      "itemsPerPage": 20,
+      "globalFilterValue": null,
+      "columns": [
+        {
+          "name": "shippingRestriction",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 1,
+          "columnType": "BOOLEAN",
+          "description": "Shipping Restriction",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "country",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 2,
+          "columnType": "TEXT",
+          "description": "Country",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "eventType",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 3,
+          "columnType": "TEXT",
+          "description": "Event Type",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "duration",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 4,
+          "columnType": "NUMBER",
+          "description": "Grace Period",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "deviation",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 5,
+          "columnType": "NUMBER",
+          "description": "Grace Period Deviation",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "justification",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 6,
+          "columnType": "TEXT",
+          "description": "Justification",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "clockStartDate",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 7,
+          "columnType": "DATE",
+          "description": "Clock Start Date",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "gpEndDate",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 8,
+          "columnType": "DATE",
+          "description": "GP End Date",
+          "dictionary": false,
+          "businessData": false
+        }
+      ],
+      "filters": [
+        {
+          "name": "shippingRestriction",
+          "selectedValues": [],
+          "visible": false,
+          "order": 1,
+          "filterType": "CHECK_BOX",
+          "description": "Shipping Restriction",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "country",
+          "selectedValues": [],
+          "visible": false,
+          "order": 2,
+          "filterType": "TEXT",
+          "description": "Country",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "eventType",
+          "selectedValues": [],
+          "visible": false,
+          "order": 3,
+          "filterType": "DROP_DOWN",
+          "description": "Event Type",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "LATEST_DATE_DELIVERY_AFFILIATE": "Latest Date Delivery ex Affiliate",
+            "LATEST_DATE_AFFILIATE_RELEASE": "Latest Date Affiliate Release",
+            "LATEST_DATE_PACKAGING_START": "Latest Date Packaging Start",
+            "LATEST_DATE_BULK_PRODUCTION_START": "Latest Date Bulk Production Start",
+            "LATEST_DATE_PACKAGING_SITE_RELEASE": "Latest Date Packaging Site Release",
+            "LATEST_DATE_AFFILIATE_GOODS_RECEIPT": "Latest Date Affiliate Goods Receipt"
+          }
+        },
+        {
+          "name": "duration",
+          "selectedValues": [],
+          "visible": false,
+          "order": 4,
+          "filterType": "TEXT",
+          "description": "Grace Period",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "deviation",
+          "selectedValues": [],
+          "visible": false,
+          "order": 5,
+          "filterType": "TEXT",
+          "description": "Grace Period Deviation",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "justification",
+          "selectedValues": [],
+          "visible": false,
+          "order": 6,
+          "filterType": "TEXT",
+          "description": "Justification",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "clockStartDate",
+          "selectedValues": [],
+          "visible": false,
+          "order": 7,
+          "filterType": "DATE",
+          "description": "Clock Start Date",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "gpEndDate",
+          "selectedValues": [],
+          "visible": false,
+          "order": 8,
+          "filterType": "DATE",
+          "description": "GP End Date",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        }
+      ]
+    },
+    "possibleVariants": [
+      {
+        "variantId": 0,
+        "variantName": "Default",
+        "readOnly": true,
+        "defaultVariant": true
+      }
+    ]
+  },
+  "origin": "COCO_REQUEST_RESTRICTION",
+  "dictionaryPairs": [],
+  "meta": {
+    "requestType": "CDS Update - Standard Safety",
+    "clockStartDate": 1523491200000,
+    "typeOfClockStart": "OK_FOR_EXECUTION_DATE"
+  }
+}

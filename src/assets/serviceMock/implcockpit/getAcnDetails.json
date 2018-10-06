@@ -1,0 +1,98 @@
+{
+  "acnStatus": "Cancelled",
+  "readFlag": false,
+  "acn": 1001,
+  "requestNumber": 1000,
+  "cocoPulpitPrefix": null,
+  "requestType": "CDS Update - Safety",
+  "haRelevant": null,
+  "regulatoryRelevant": null,
+  "bundled": null,
+  "reasonOfChange": "Greg Test",
+  "orderReference": null,
+  "actions": [
+    {
+      "actionName": "REASSIGN",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "CONFIRM",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "EDIT",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "CANCEL",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "CLOSE",
+      "active": "HIDDEN"
+    }
+  ],
+  "finishedGood": {
+    "actionOnFg": "Existing",
+    "number": "10008004",
+    "description": "SULFONAMIDE PRESTEP",
+    "predecesorFgNumber": null,
+    "gtinForPrimaryPackaging": "3232323232",
+    "gtinForSecondaryPackaging": "243422424242",
+    "pacoId": "1235",
+    "plantSpecificStatus": "",
+    "internationalName": "",
+    "packagingSite": "161111, ROCHE SA",
+    "ufincGroup": "",
+    "makeupCode": "IT",
+    "mRPControllerCode": "",
+    "billOfArtworks": {
+      "boaStatus": "Approved",
+      "boAApprovalDate": 1499669576000,
+      "tricNumber": "1000100",
+      "oldBoaHeader": {
+        "onlinePrintedPrice": "1001",
+        "shelfLife": "10",
+        "d2Id": "A on FP and C on PP",
+        "boaValidFrom": 1492466400000,
+        "boaValidTo": 1523343151000,
+        "acn": "1001",
+        "caiscForm": null
+      },
+      "newBoaHeader": {
+        "onlinePrintedPrice": "1001",
+        "shelfLife": "10",
+        "d2Id": "A on FP and C on PP",
+        "boaValidFrom": 1492466400000,
+        "boaValidTo": 1523343151000,
+        "acn": "1001",
+        "caiscForm": null
+      }
+    },
+    "regulatoryRestrictions": [
+      {
+        "name": "Latest possible release at Affiliate",
+        "date": null
+      },
+      {
+        "name": "Latest possible packaging at site",
+        "date": null
+      },
+      {
+        "name": "Latest possible delivery out of Affiliate",
+        "date": null
+      }
+    ],
+    "billOfMaterial": {
+      "engineeringChangeNumber": null,
+      "bomStatus": "Active",
+      "weekOfFirstUpcomingOrder": "",
+      "earliestBOMValidFromDate": null,
+      "latestBomValidFromDate": null,
+      "confirmedBomValidFromDate": null,
+      "proposedBomValidFromDate": 1492681144000
+    }
+  },
+  "ppmMaterials": [],
+  "allowedChangeBomValidDate": true
+}

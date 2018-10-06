@@ -1,0 +1,9 @@
+<p>
+  control4 works!
+</p>
+
+<div *ngFor="let pdf of items$ | async ; let i = index">
+  <div *ngFor="let xxxx of pdf.items ; let i = index">
+    {{xxxx.artusPdfLink | json}}&nbsp;
+  </div>
+</div>

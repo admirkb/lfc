@@ -1,0 +1,121 @@
+{
+  "materialNumber": "10008545",
+  "materialDescription": "GRANULOK 30 000 000IU/0.5ML 1ASRG BR",
+  "boaStatus": {
+    "code": "DEPLOYED",
+    "label": "Deployed"
+  },
+  "boaVersion": 2,
+  "acn": 5755,
+  "requestNumber": 4907,
+  "primaryRequestType": {
+    "code": "ALPIN1",
+    "label": "ALPIN1 Legacy"
+  },
+  "secondaryRequestType": [],
+  "reasonForRequest": null,
+  "validFrom": 1393545600000,
+  "materialType": {
+    "code": "FINP",
+    "label": "Finished Products"
+  },
+  "makeUp": "BR",
+  "presentation": {
+    "code": "1395734",
+    "label": "NEUPOGEN PREFILLED SYRINGES 30 000 000 IU/0.5 ML 1"
+  },
+  "productFamily": {
+    "code": "09930",
+    "label": "NEUPOGEN"
+  },
+  "packagingSite": {
+    "city": "KAISERAUGST",
+    "plantName": "Werk Pharma Basel"
+  },
+  "manufacturingSite": {
+    "city": "BASEL",
+    "plantName": "Werk Pharma Basel"
+  },
+  "onlinePrintedPriceOld": null,
+  "onlinePrintedPriceNew": null,
+  "totalShelfLifOld": "24",
+  "totalShelfLifeNew": "24",
+  "materialCodificationOld": null,
+  "materialCodificationNew": null,
+  "ppms": [
+    {
+      "predecessorNumber": null,
+      "ppmNumber": "10138679",
+      "ppmDescription": "FBPR GRANULOK 30 000 000IU 1ASRG BR",
+      "gtinForPrimaryPackaging": null,
+      "gtinForSecondaryPackaging": null,
+      "action": null,
+      "format": null,
+      "normPackaging": null,
+      "localPiNumbers": []
+    },
+    {
+      "predecessorNumber": null,
+      "ppmNumber": "10148792",
+      "ppmDescription": "LEAF GRANULOK 0.3MG VIAL BR",
+      "gtinForPrimaryPackaging": null,
+      "gtinForSecondaryPackaging": null,
+      "action": null,
+      "format": null,
+      "normPackaging": null,
+      "localPiNumbers": []
+    },
+    {
+      "predecessorNumber": null,
+      "ppmNumber": "10126136",
+      "ppmDescription": "LPAD GRANULOK 30 000 000IU ASRG BR",
+      "gtinForPrimaryPackaging": null,
+      "gtinForSecondaryPackaging": null,
+      "action": null,
+      "format": null,
+      "normPackaging": null,
+      "localPiNumbers": []
+    }
+  ],
+  "printApprovedBoaView": {
+    "acn": 5755,
+    "finishedGood": {
+      "fgNumber": "10008545",
+      "description": "GRANULOK 30 000 000IU/0.5ML 1ASRG BR"
+    },
+    "boaStatus": {
+      "code": "DEPLOYED",
+      "label": "Deployed"
+    },
+    "boaVersion": 2,
+    "manifacturingSite": {
+      "city": "BASEL",
+      "plantName": "Werk Pharma Basel"
+    },
+    "packagingSite": {
+      "city": "KAISERAUGST",
+      "plantName": "Werk Pharma Basel"
+    },
+    "primaryRequestType": {
+      "code": "ALPIN1",
+      "label": "ALPIN1 Legacy"
+    },
+    "secondaryRequestType": [],
+    "reasonForRequest": null,
+    "regulatoryRelevant": null,
+    "clockStartDate": null,
+    "clockStartType": null,
+    "previousBoaValidityFromDate": 1342569600000,
+    "previousBoaValidityToDate": 1393459200000,
+    "newBoaValidFromDate": 1393545600000,
+    "newBoaValidToDate": 1406160000000,
+    "confirmedBOMValidFromDate": null,
+    "oldShelfLife": "24",
+    "oldOnlinePrintedPrice": null,
+    "old2DMaterialCodification": null,
+    "oldOnOffLinePrinting": null,
+    "newShelfLife": "24",
+    "newOnlinePrintedPrice": null,
+    "new2DMaterialCodification": null
+  }
+}

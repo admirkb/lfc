@@ -1,0 +1,269 @@
+{
+    "rejectionReason": [
+        {
+            "code": "ADDITIONAL_INFO_REQUIRED",
+            "label": "Additional info is Required",
+            "additionalProperties": {
+                "forStep": []
+            }
+        },
+        {
+            "code": "CONTENT_BOM_BOA_NOT_CONSISTENT",
+            "label": "Content - BOM/BOA not consistent",
+            "additionalProperties": {
+                "forStep": [
+                    "BOM_UC040_ApproveBom",
+                    "BOM_UC130_ActivateBom"
+                ]
+            }
+        },
+        {
+            "code": "CONTENT_BOA_NOT_COMPLETE",
+            "label": "Content - BoA not complete or wrong",
+            "additionalProperties": {
+                "forStep": [
+                    "BOM_UC030_UpdateMasterData",
+                    "BOM_UC040_ApproveBom",
+                    "BOM_UC060_CreateUpdateMBR",
+                    "BOM_UC070_ApproveMBR",
+                    "BOM_UC130_ActivateBom",
+                    "BOM_UC020_CompleteBom"
+                ]
+            }
+        },
+        {
+            "code": "CONTENT_FINP_MARKED_FOR_DELETION",
+            "label": "Content - FINP marked for deletion",
+            "additionalProperties": {
+                "forStep": [
+                    "BOM_UC030_UpdateMasterData",
+                    "BOM_UC040_ApproveBom",
+                    "BOM_UC060_CreateUpdateMBR",
+                    "BOM_UC070_ApproveMBR",
+                    "BOM_UC130_ActivateBom",
+                    "BOM_UC020_CompleteBom"
+                ]
+            }
+        },
+        {
+            "code": "CONTENT_MES_SAP_NOT_CONSISTENT",
+            "label": "Content - MES/SAP not consistent",
+            "additionalProperties": {
+                "forStep": [
+                    "BOM_UC060_CreateUpdateMBR",
+                    "BOM_UC070_ApproveMBR"
+                ]
+            }
+        },
+        {
+            "code": "CON_FAILURE",
+            "label": "Content Failure",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC020_ProofRead"
+                ]
+            }
+        },
+        {
+            "code": "FAULTY_MANUSCRIPT",
+            "label": "Faulty Manuscript",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC010_CreatePdf"
+                ]
+            }
+        },
+        {
+            "code": "FG_NOT_IN_SCOPE",
+            "label": "Finished Good Active But Not In Scope",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Remove_FG_From_TC"
+                ]
+            }
+        },
+        {
+            "code": "FG_STATUS_CREATION",
+            "label": "Finished Good Material Status Creation",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Remove_FG_From_TC"
+                ]
+            }
+        },
+        {
+            "code": "FG_STATUS_DISCONTINUED",
+            "label": "Finished Good Material Status Discontinued",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Remove_FG_From_TC"
+                ]
+            }
+        },
+        {
+            "code": "GMP_FAILURE",
+            "label": "GMP Failure",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC020_ProofRead"
+                ]
+            }
+        },
+        {
+            "code": "GLOBAL_SUB_CANC",
+            "label": "Global Submission cancelled",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Cancellation",
+                    "Cancel_Request"
+                ]
+            }
+        },
+        {
+            "code": "GLOBAL_SUB_ON_HOLD",
+            "label": "Global Submission on hold",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Withdrawal"
+                ]
+            }
+        },
+        {
+            "code": "GLOBAL_SUB_REJ_WIT",
+            "label": "Global Submission rejected or withdrawn",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Withdrawal",
+                    "Request_Cancellation",
+                    "Cancel_Request"
+                ]
+            }
+        },
+        {
+            "code": "INCOMPLETE_ARTWORKS",
+            "label": "Incomplete Artworks Information/Description",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC010_CreatePdf"
+                ]
+            }
+        },
+        {
+            "code": "LAY_FAILURE",
+            "label": "Layout Failure",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC020_ProofRead"
+                ]
+            }
+        },
+        {
+            "code": "LOCAL_SUB_ON_HOLD",
+            "label": "Local Submission on hold",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Withdrawal"
+                ]
+            }
+        },
+        {
+            "code": "LOCAL_SUB_REJ_WIT",
+            "label": "Local Submission rejected or withdrawn",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Cancellation",
+                    "Cancel_Request"
+                ]
+            }
+        },
+        {
+            "code": "MISSING_CODE",
+            "label": "Missing Code Information",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC010_CreatePdf"
+                ]
+            }
+        },
+        {
+            "code": "MISSING_CORRECTION",
+            "label": "Missing Correction/Annotated PDF",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC010_CreatePdf"
+                ]
+            }
+        },
+        {
+            "code": "MISSING_MANUSCRIPT",
+            "label": "Missing Manuscript",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC010_CreatePdf"
+                ]
+            }
+        },
+        {
+            "code": "MISSING_DRAWING",
+            "label": "Missing Technical Drawing",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC010_CreatePdf"
+                ]
+            }
+        },
+        {
+            "code": "OTHER",
+            "label": "Other",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC030_UploadPdf",
+                    "BOM_UC020_CompleteBom",
+                    "BOM_UC030_UpdateMasterData",
+                    "BOM_UC040_ApproveBom",
+                    "BOM_UC060_CreateUpdateMBR",
+                    "BOM_UC070_ApproveMBR",
+                    "BOM_UC130_ActivateBom",
+                    "PDF_UC020_ProofRead"
+                ]
+            }
+        },
+        {
+            "code": "REDETAILING_REQUIRED",
+            "label": "Redetailing is Required",
+            "additionalProperties": {
+                "forStep": []
+            }
+        },
+        {
+            "code": "REQUEST_NO_LONG_REQ",
+            "label": "Request no longer required",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Cancellation",
+                    "Cancel_Request",
+                    "CCRD_UC130_FgRemoval"
+                ]
+            }
+        },
+        {
+            "code": "REQUEST_ON_HOLD",
+            "label": "Request on hold until further clarification",
+            "additionalProperties": {
+                "forStep": [
+                    "Request_Withdrawal"
+                ]
+            }
+        },
+        {
+            "code": "TECH_FAILURE",
+            "label": "Technical Failure",
+            "additionalProperties": {
+                "forStep": [
+                    "PDF_UC030_UploadPdf",
+                    "PDF_UC020_ProofRead"
+                ]
+            }
+        }
+    ]
+}

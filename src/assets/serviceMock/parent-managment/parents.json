@@ -1,0 +1,266 @@
+{"items": [
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "status": {
+        "code": "ACTIVE",
+        "label": "ACTIVE"
+      },
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "changeDescription": "Mandatory",
+      "trackwiseNumber": null,
+      "submissionType": null,
+      "globalSubmissionNumber": null,
+      "gprsBundleId": null,
+      "gprsSignalId": null,
+      "impactedPpmTypes": [],
+      "requestType": null,
+      "assignedProducts": [
+        {
+          "productFamily": {
+            "code": "16384",
+            "label": "ACTEMRA"
+          },
+          "internationalName": {
+            "code": "6901",
+            "label": "ACTEMRA ASDA 162 MG/0.9 ML"
+          },
+          "presentation": {
+            "code": "0580197",
+            "label": "ACTEMRA ASDA 162 MG/0.9 ML 1"
+          }
+        }
+      ],
+      "makeupsAvailability": [],
+      "uncoveredMakeups": [],
+      "assignedRequestNumbers": [
+        100355,
+        100356,
+        100359,
+        100358,
+        100361,
+        100360,
+        100363,
+        100362,
+        100365,
+        100364,
+        100366
+      ],
+      "targetImplementationDate": null,
+      "timeline": null,
+      "comment": null,
+      "origin": "COORDINATION_COCKPIT_PARENTS",
+      "instanceID": "2"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "status": {
+        "code": "CANCELLED",
+        "label": "CANCELLED"
+      },
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "changeDescription": "Mandatory",
+      "trackwiseNumber": null,
+      "submissionType": null,
+      "globalSubmissionNumber": null,
+      "gprsBundleId": null,
+      "gprsSignalId": null,
+      "impactedPpmTypes": [],
+      "requestType": null,
+      "assignedProducts": [
+        {
+          "productFamily": {
+            "code": "16384",
+            "label": "ACTEMRA"
+          },
+          "internationalName": {
+            "code": "6901",
+            "label": "ACTEMRA ASDA 162 MG/0.9 ML"
+          },
+          "presentation": {
+            "code": "0580227",
+            "label": "ACTEMRA ASDA 162 MG/0.9 ML 12"
+          }
+        }
+      ],
+      "makeupsAvailability": [],
+      "uncoveredMakeups": [],
+      "assignedRequestNumbers": [
+        100356,
+        100359,
+        100358,
+        100361,
+        100360,
+        100363,
+        100362,
+        100365,
+        100364,
+        100366
+      ],
+      "targetImplementationDate": null,
+      "timeline": null,
+      "comment": null,
+      "origin": "COORDINATION_COCKPIT_PARENTS",
+      "instanceID": "3"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "status": {
+        "code": "ACTIVE",
+        "label": "ACTIVE"
+      },
+      "productFamily": {
+        "code": "10726",
+        "label": "ACTIVASE"
+      },
+      "changeDescription": "Mandatory",
+      "trackwiseNumber": null,
+      "submissionType": null,
+      "globalSubmissionNumber": null,
+      "gprsBundleId": null,
+      "gprsSignalId": null,
+      "impactedPpmTypes": [],
+      "requestType": null,
+      "assignedProducts": [
+        {
+          "productFamily": {
+            "code": "10726",
+            "label": "ACTIVASE"
+          },
+          "internationalName": {
+            "code": "2480",
+            "label": "ACTIVASE LYOPHILIZED VIALS 50 MG"
+          },
+          "presentation": {
+            "code": "1693247",
+            "label": "ACTIVASE VIAL  50MG          1"
+          }
+        }
+      ],
+      "makeupsAvailability": [],
+      "uncoveredMakeups": [],
+      "assignedRequestNumbers": [],
+      "targetImplementationDate": null,
+      "timeline": null,
+      "comment": null,
+      "origin": "COORDINATION_COCKPIT_PARENTS",
+      "instanceID": "4"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "status": {
+        "code": "ACTIVE",
+        "label": "ACTIVE"
+      },
+      "productFamily": {
+        "code": "18670",
+        "label": "ACCU-CHEK DEXTROSE O.G.-T."
+      },
+      "changeDescription": "test",
+      "trackwiseNumber": null,
+      "submissionType": null,
+      "globalSubmissionNumber": null,
+      "gprsBundleId": null,
+      "gprsSignalId": null,
+      "impactedPpmTypes": [],
+      "requestType": null,
+      "assignedProducts": [
+        {
+          "productFamily": {
+            "code": "18670",
+            "label": "ACCU-CHEK DEXTROSE O.G.-T."
+          },
+          "internationalName": {
+            "code": "7500",
+            "label": "ACCU-CHECK DEXTROSE O.G.-T."
+          },
+          "presentation": {
+            "code": "0580238",
+            "label": "ACCU-CHECK DEXTROSE O.G.-T."
+          }
+        }
+      ],
+      "makeupsAvailability": [],
+      "uncoveredMakeups": [],
+      "assignedRequestNumbers": [],
+      "targetImplementationDate": null,
+      "timeline": null,
+      "comment": null,
+      "origin": "COORDINATION_COCKPIT_PARENTS",
+      "instanceID": "5"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "status": {
+        "code": "ACTIVE",
+        "label": "ACTIVE"
+      },
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "changeDescription": "rsewgrf",
+      "trackwiseNumber": null,
+      "submissionType": null,
+      "globalSubmissionNumber": null,
+      "gprsBundleId": null,
+      "gprsSignalId": null,
+      "impactedPpmTypes": [],
+      "requestType": null,
+      "assignedProducts": [
+        {
+          "productFamily": {
+            "code": "16384",
+            "label": "ACTEMRA"
+          },
+          "internationalName": {
+            "code": "6901",
+            "label": "ACTEMRA ASDA 162 MG/0.9 ML"
+          },
+          "presentation": {
+            "code": "0580197",
+            "label": "ACTEMRA ASDA 162 MG/0.9 ML 1"
+          }
+        }
+      ],
+      "makeupsAvailability": [],
+      "uncoveredMakeups": [],
+      "assignedRequestNumbers": [
+        100359,
+        100361,
+        100360,
+        100363,
+        100362,
+        100365,
+        100364,
+        100366
+      ],
+      "targetImplementationDate": null,
+      "timeline": null,
+      "comment": null,
+      "origin": "COORDINATION_COCKPIT_PARENTS",
+      "instanceID": "6"
+    }
+  ],
+  "possibleIcons": [],
+  "dictionaries": {},
+  "table": null,
+  "origin": "COORDINATION_COCKPIT_PARENTS",
+  "dictionaryPairs": [],
+  "meta": {}
+}

@@ -1,0 +1,174 @@
+{
+  "acnStatus": "Cancelled",
+  "readFlag": false,
+  "acn": 5002,
+  "requestNumber": 5001,
+  "cocoPulpitPrefix": null,
+  "requestType": "Packaging Site Changes - Non TRIC",
+  "haRelevant": true,
+  "regulatoryRelevant": false,
+  "bundled": null,
+  "orderReference": "345777",
+  "actions": [
+    {
+      "actionName": "CLOSE",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "EDIT",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "CANCEL",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "REASSIGN",
+      "active": "HIDDEN"
+    },
+    {
+      "actionName": "CONFIRM",
+      "active": "HIDDEN"
+    }
+  ],
+  "finishedGood": {
+    "actionOnFg": "New",
+    "number": "10008112",
+    "description": "CLODRONIC ACID, DINA-SALT 4H2O",
+    "predecessorFgNumber": null,
+    "gtinForPrimaryPackaging": null,
+    "gtinForSecondaryPackaging": null,
+    "pacoId": "1233asda",
+    "plantSpecificStatus": "",
+    "internationalName": "",
+    "packagingSite": "129102, ROCHE POLSKA LTD",
+    "ufincGroup": null,
+    "makeupCode": "IT",
+    "mRPControllerCode": "",
+    "billOfArtworks": {
+      "boaStatus": "Approved",
+      "boAApprovalDate": null,
+      "tricNumber": "000000",
+      "oldBoaHeader": null,
+      "newBoaheader": {
+        "onlinePrintedPrice": "1000",
+        "shelfLife": null,
+        "d2Id": "A on FP and C on PP",
+        "boaValidFrom": 1495317600000,
+        "boaValidTo": 1492500436000,
+        "acn": "5002",
+        "caiscForm": null
+      }
+    },
+    "regulatoryRestrictions": [
+      {
+        "name": "Latest possible release at Affiliate",
+        "date": null
+      },
+      {
+        "name": "Latest possible packaging at site",
+        "date": null
+      },
+      {
+        "name": "Latest possible delivery out of Affiliate",
+        "date": null
+      }
+    ],
+    "billOfMaterial": {
+      "engineeringChangeNumber": null,
+      "bomStatus": "Active",
+      "weekOfFirstUpcomingOrder": "",
+      "earliestBOMValidFromDate": null,
+      "latestBomValidFromDate": null,
+      "confirmedBomValidFromDate": 1496740663000,
+      "proposedBomValidFromDate": 1503135561000
+    }
+  },
+  "ppmMaterials": [
+    {
+      "actionOnPpm": "Replace",
+      "description": "PROPYLTHIOURACILE USP",
+      "gtinPrimary": null,
+      "gtinSecondary": null,
+      "packagingSite": null,
+      "d2Id": null,
+      "pacoId": null,
+      "currentNumber": "10008006",
+      "currentValidPdf": null,
+      "normpackagingInformation": null,
+      "previousNumber": null,
+      "previousValidPdf": null,
+      "previousNormpackagingInformation": null,
+      "previousDescription": null,
+      "contentChange": false,
+      "changeToDimension": false,
+      "changeToLayout": false,
+      "materialGroup": "Leaflets",
+      "includedByFg": [
+        {
+          "number": "10008027",
+          "description": "AZOSEMIDE, IN"
+        },
+        {
+          "number": "10008112",
+          "description": "CLODRONIC ACID, DINA-SALT 4H2O"
+        },
+        {
+          "number": "10008095",
+          "description": "GLIBENCLAMIDE III,CARBONAMIDE"
+        }
+      ],
+      "makeupCode": "IT",
+      "additionalPPMInformation": null,
+      "additionalTechnicalInformation": null,
+      "impactedFG": [
+        "10008027 AZOSEMIDE, IN",
+        "10008112 CLODRONIC ACID, DINA-SALT 4H2O",
+        "10008095 GLIBENCLAMIDE III,CARBONAMIDE"
+      ]
+    },
+    {
+      "actionOnPpm": "New",
+      "description": "PROPYLTHIOURACILE USP",
+      "gtinPrimary": null,
+      "gtinSecondary": null,
+      "packagingSite": null,
+      "d2Id": null,
+      "pacoId": null,
+      "currentNumber": "10008006",
+      "currentValidPdf": null,
+      "normpackagingInformation": null,
+      "previousNumber": null,
+      "previousValidPdf": null,
+      "previousNormpackagingInformation": null,
+      "previousDescription": null,
+      "contentChange": false,
+      "changeToDimension": false,
+      "changeToLayout": false,
+      "materialGroup": "Leaflets",
+      "includedByFg": [
+        {
+          "number": "10008027",
+          "description": "AZOSEMIDE, IN"
+        },
+        {
+          "number": "10008112",
+          "description": "CLODRONIC ACID, DINA-SALT 4H2O"
+        },
+        {
+          "number": "10008095",
+          "description": "GLIBENCLAMIDE III,CARBONAMIDE"
+        }
+      ],
+      "makeupCode": "IT",
+      "additionalPPMInformation": "Add ppp info",
+      "additionalTechnicalInformation": "Add tech info",
+      "impactedFG": [
+        "10008027 AZOSEMIDE, IN",
+        "10008112 CLODRONIC ACID, DINA-SALT 4H2O",
+        "10008095 GLIBENCLAMIDE III,CARBONAMIDE"
+      ]
+    }
+  ],
+  "allowedChangeBomValidDate": false
+}

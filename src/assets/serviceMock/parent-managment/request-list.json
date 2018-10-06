@@ -1,0 +1,1876 @@
+{
+  "items": [
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100140",
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "packagingSites": [],
+      "country": {
+        "code": "DE",
+        "label": "Germany"
+      },
+      "requestPriority": {
+        "code": "HIGH",
+        "label": "High"
+      },
+      "requestType": {
+        "code": "CDS_UPDATE_STANDARD_SAFETY",
+        "label": "CDS Update - Standard Safety"
+      },
+      "requestStatus": {
+        "code": "CREATED",
+        "label": "Created"
+      },
+      "requestPhase": {
+        "code": "IN_DRAFT",
+        "label": "In Draft"
+      },
+      "receivedDate": null,
+      "targetBoaDeploymentDate": null,
+      "targetBoaDeploymentDateDelayed": null,
+      "boaDeployed": "0 of 0",
+      "fgNumber": [],
+      "ppmNumber": [],
+      "presentation": [
+        {
+          "code": "0580200",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML 4"
+        }
+      ],
+      "packagingMakeups": [
+        {
+          "code": "DE-CHU",
+          "label": "GERMANY-CHUGAI"
+        }
+      ],
+      "owner": "Rafal Smyka",
+      "creationDate": 1517929578830,
+      "acnNumber": [],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "E2E Test on 2/6/2018 4:06:15 PM",
+      "impactedPpmTypes": [],
+      "productInternationalNames": [
+        {
+          "code": "6902",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML"
+        }
+      ],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 0,
+      "numberOfPendingActions": 0,
+      "numberOfTriggeredTasks": 0,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": false,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100140"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100141",
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "packagingSites": [],
+      "country": {
+        "code": "DE",
+        "label": "Germany"
+      },
+      "requestPriority": {
+        "code": "HIGH",
+        "label": "High"
+      },
+      "requestType": {
+        "code": "CDS_UPDATE_STANDARD_SAFETY",
+        "label": "CDS Update - Standard Safety"
+      },
+      "requestStatus": {
+        "code": "CREATED",
+        "label": "Created"
+      },
+      "requestPhase": {
+        "code": "IN_DRAFT",
+        "label": "In Draft"
+      },
+      "receivedDate": null,
+      "targetBoaDeploymentDate": null,
+      "targetBoaDeploymentDateDelayed": null,
+      "boaDeployed": "0 of 0",
+      "fgNumber": [],
+      "ppmNumber": [],
+      "presentation": [
+        {
+          "code": "0580200",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML 4"
+        }
+      ],
+      "packagingMakeups": [
+        {
+          "code": "DE-CHU",
+          "label": "GERMANY-CHUGAI"
+        }
+      ],
+      "owner": "Enrico Giurin",
+      "creationDate": 1517929623619,
+      "acnNumber": [],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "E2E Test on 2/6/2018 4:07:03 PM",
+      "impactedPpmTypes": [],
+      "productInternationalNames": [
+        {
+          "code": "6902",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML"
+        }
+      ],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 0,
+      "numberOfPendingActions": 0,
+      "numberOfTriggeredTasks": 0,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": false,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100141"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100142",
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "packagingSites": [],
+      "country": {
+        "code": "DE",
+        "label": "Germany"
+      },
+      "requestPriority": {
+        "code": "HIGH",
+        "label": "High"
+      },
+      "requestType": {
+        "code": "CDS_UPDATE_STANDARD_SAFETY",
+        "label": "CDS Update - Standard Safety"
+      },
+      "requestStatus": {
+        "code": "CREATED",
+        "label": "Created"
+      },
+      "requestPhase": {
+        "code": "IN_DRAFT",
+        "label": "In Draft"
+      },
+      "receivedDate": null,
+      "targetBoaDeploymentDate": null,
+      "targetBoaDeploymentDateDelayed": null,
+      "boaDeployed": "0 of 0",
+      "fgNumber": [],
+      "ppmNumber": [],
+      "presentation": [
+        {
+          "code": "0580200",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML 4"
+        }
+      ],
+      "packagingMakeups": [
+        {
+          "code": "DE-CHU",
+          "label": "GERMANY-CHUGAI"
+        }
+      ],
+      "owner": "Pawel Szymanski",
+      "creationDate": 1517929686988,
+      "acnNumber": [],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "E2E Test on 2/6/2018 4:08:06 PM",
+      "impactedPpmTypes": [],
+      "productInternationalNames": [
+        {
+          "code": "6902",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML"
+        }
+      ],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 0,
+      "numberOfPendingActions": 0,
+      "numberOfTriggeredTasks": 0,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": false,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100142"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100143",
+      "productFamily": {
+        "code": "16384",
+        "label": "ACTEMRA"
+      },
+      "packagingSites": [
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        },
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        },
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        },
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        },
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        },
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        },
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        }
+      ],
+      "country": {
+        "code": "DE",
+        "label": "Germany"
+      },
+      "requestPriority": {
+        "code": "HIGH",
+        "label": "High"
+      },
+      "requestType": {
+        "code": "CDS_UPDATE_STANDARD_SAFETY",
+        "label": "CDS Update - Standard Safety"
+      },
+      "requestStatus": {
+        "code": "CREATED",
+        "label": "Created"
+      },
+      "requestPhase": {
+        "code": "IN_CREATION",
+        "label": "In Creation"
+      },
+      "receivedDate": 1517875200000,
+      "targetBoaDeploymentDate": null,
+      "targetBoaDeploymentDateDelayed": null,
+      "boaDeployed": "0 of 7",
+      "fgNumber": [
+        "10141814",
+        "10141814",
+        "10141814",
+        "10141814",
+        "10141814",
+        "10147271",
+        "10183404"
+      ],
+      "ppmNumber": [
+        "10152653",
+        "10178980",
+        "10152653",
+        "10195992",
+        "10195992",
+        "10178980",
+        "10152653",
+        "10195992",
+        "10178980",
+        "10152653",
+        "10158618",
+        "10195992",
+        "10195992",
+        "10178980",
+        "10152653",
+        "10152653",
+        "10195992",
+        "10178980"
+      ],
+      "presentation": [
+        {
+          "code": "0580200",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML 4"
+        }
+      ],
+      "packagingMakeups": [
+        {
+          "code": "DE-CHU",
+          "label": "GERMANY-CHUGAI"
+        }
+      ],
+      "owner": "Marcin Domagala",
+      "creationDate": 1518083872389,
+      "acnNumber": [],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "E2E Test on 2/6/2018 4:19:00 PM",
+      "impactedPpmTypes": [
+        {
+          "code": "LABEL",
+          "label": "Label"
+        },
+        {
+          "code": "LEAFLET",
+          "label": "Leaflet"
+        },
+        {
+          "code": "FOLDING_BOX",
+          "label": "Folding box"
+        }
+      ],
+      "productInternationalNames": [
+        {
+          "code": "6902",
+          "label": "ACTEMRA ASSD 162 MG/0.9 ML"
+        }
+      ],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 0,
+      "numberOfPendingActions": 0,
+      "numberOfTriggeredTasks": 0,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": false,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100143"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100144",
+      "productFamily": {
+        "code": "00143",
+        "label": "BACTRIM"
+      },
+      "packagingSites": [
+        {
+          "code": "10011453",
+          "label": "CENEXI SAS France"
+        }
+      ],
+      "country": {
+        "code": "FR",
+        "label": "France"
+      },
+      "requestPriority": {
+        "code": "MEDIUM",
+        "label": "Medium"
+      },
+      "requestType": {
+        "code": "TRIC",
+        "label": "TRIC"
+      },
+      "requestStatus": {
+        "code": "IN_PROGRESS",
+        "label": "In Progress"
+      },
+      "requestPhase": {
+        "code": "IN_DETAILING",
+        "label": "In Detailing"
+      },
+      "receivedDate": 1517788800000,
+      "targetBoaDeploymentDate": 9223372036828800000,
+      "targetBoaDeploymentDateDelayed": false,
+      "boaDeployed": "1 of 1",
+      "fgNumber": [
+        "10164876"
+      ],
+      "ppmNumber": [
+        "10126538",
+        "10190934",
+        "10190937"
+      ],
+      "presentation": [
+        {
+          "code": "0502707",
+          "label": "BACTRIM FORTETAB 800+160DDP2X5"
+        }
+      ],
+      "packagingMakeups": [
+        {
+          "code": "FR",
+          "label": "FRANCE"
+        }
+      ],
+      "owner": "Kamil Sobala",
+      "creationDate": 1517931681400,
+      "acnNumber": [
+        "100012"
+      ],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "My reasons are private",
+      "impactedPpmTypes": [
+        {
+          "code": "LIDDING_FOIL",
+          "label": "Lidding foil"
+        },
+        {
+          "code": "LEAFLET",
+          "label": "Leaflet"
+        },
+        {
+          "code": "FOLDING_BOX",
+          "label": "Folding box"
+        }
+      ],
+      "productInternationalNames": [
+        {
+          "code": "572",
+          "label": "BACTRIM FORTE TABLETS 800/160 MG"
+        }
+      ],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 0,
+      "numberOfPendingActions": 0,
+      "numberOfTriggeredTasks": 0,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": true,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100144"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100145",
+      "productFamily": {
+        "code": "10815",
+        "label": "XELODA"
+      },
+      "packagingSites": [
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        }
+      ],
+      "country": null,
+      "requestPriority": {
+        "code": "HIGH",
+        "label": "High"
+      },
+      "requestType": {
+        "code": "CDS_UPDATE_STANDARD_SAFETY",
+        "label": "CDS Update - Standard Safety"
+      },
+      "requestStatus": {
+        "code": "IN_PROGRESS",
+        "label": "In Progress"
+      },
+      "requestPhase": {
+        "code": "IN_ASSESSMENT",
+        "label": "In Assessment"
+      },
+      "receivedDate": 1517788800000,
+      "targetBoaDeploymentDate": null,
+      "targetBoaDeploymentDateDelayed": null,
+      "boaDeployed": "0 of 1",
+      "fgNumber": [
+        "10168456"
+      ],
+      "ppmNumber": [
+        "10160133",
+        "10177150",
+        "10195289"
+      ],
+      "presentation": [
+        {
+          "code": "1392190",
+          "label": "XELODA L-TAB 500MG DDP120"
+        }
+      ],
+      "packagingMakeups": [
+        {
+          "code": "UY-BO-PY",
+          "label": "URUGUAY-BOLIVIA-PARAGUAY"
+        }
+      ],
+      "owner": "Valentina Di Bartolo",
+      "creationDate": 1517933742050,
+      "acnNumber": [],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "fatti i ca tuoi",
+      "impactedPpmTypes": [
+        {
+          "code": "LIDDING_FOIL",
+          "label": "Lidding foil"
+        },
+        {
+          "code": "LEAFLET",
+          "label": "Leaflet"
+        },
+        {
+          "code": "FOLDING_BOX",
+          "label": "Folding box"
+        }
+      ],
+      "productInternationalNames": [
+        {
+          "code": "1036",
+          "label": "XELODA F.C. TABLETS 500 MG"
+        }
+      ],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 0,
+      "numberOfPendingActions": 0,
+      "numberOfTriggeredTasks": 0,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": false,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100145"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "requestNumber": "100146",
+      "productFamily": {
+        "code": "03703",
+        "label": "DORMICUM"
+      },
+      "packagingSites": [
+        {
+          "code": "120103",
+          "label": "F HOFFMANN-LA ROCHE AG Switzerland"
+        }
+      ],
+      "country": {
+        "code": "PL",
+        "label": "Poland"
+      },
+      "requestPriority": {
+        "code": "MEDIUM",
+        "label": "Medium"
+      },
+      "requestType": {
+        "code": "TRIC",
+        "label": "TRIC"
+      },
+      "requestStatus": {
+        "code": "IN_PROGRESS",
+        "label": "In Progress"
+      },
+      "requestPhase": {
+        "code": "IN_ASSESSMENT",
+        "label": "In Assessment"
+      },
+      "receivedDate": null,
+      "targetBoaDeploymentDate": 1520467200000,
+      "targetBoaDeploymentDateDelayed": false,
+      "boaDeployed": "0 of 1",
+      "fgNumber": [
+        "10085931"
+      ],
+      "ppmNumber": [
+        "10115444",
+        "10119101",
+        "10134542"
+      ],
+      "presentation": [],
+      "packagingMakeups": [],
+      "owner": "Ignacy Moscicki",
+      "creationDate": 1517952583691,
+      "acnNumber": [],
+      "delayed": false,
+      "riskApproach": null,
+      "reasonForRequest": "leaflet correction",
+      "impactedPpmTypes": [
+        {
+          "code": "LIDDING_FOIL",
+          "label": "Lidding foil"
+        },
+        {
+          "code": "LEAFLET",
+          "label": "Leaflet"
+        },
+        {
+          "code": "FOLDING_BOX",
+          "label": "Folding box"
+        }
+      ],
+      "productInternationalNames": [],
+      "cdsDetail": null,
+      "trackwiseNumber": null,
+<<<<<<< HEAD
+      "globalSubmissionNumber": null,
+=======
+      "globalSubmissioNumber": null,
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+      "numberOfNotes": 1,
+      "numberOfPendingActions": 1,
+      "numberOfTriggeredTasks": 2,
+      "nextOrder": null,
+      "log": null,
+      "ownership": false,
+      "bundled": false,
+      "submissionId": "-",
+      "finalAssessment": false,
+      "withdrawalDecision": true,
+      "cancellationDecision": true,
+      "delegatedBy": null,
+      "origin": "COORDINATION_COCKPIT",
+      "instanceID": "100146"
+    }
+  ],
+  "possibleIcons": [
+    {
+      "iconName": "create",
+      "iconDescription": "Additional Information",
+      "iconColor": null,
+      "sapIcon": true
+    },
+    {
+      "iconName": "delete",
+      "iconDescription": "Cancel",
+      "iconColor": null,
+      "sapIcon": true
+    },
+    {
+      "iconName": "discussion-2",
+      "iconDescription": "Discuss with...",
+      "iconColor": null,
+      "sapIcon": true
+    },
+    {
+      "iconName": "question-mark",
+      "iconDescription": "Clarify",
+      "iconColor": "#ff9900",
+      "sapIcon": true
+    },
+    {
+      "iconName": "warning2",
+      "iconDescription": "Important",
+      "iconColor": "red",
+      "sapIcon": true
+    }
+  ],
+  "dictionaries": {
+    "impactedPpmType": {
+      "ADDITIONAL_LABEL": "Additional label",
+      "COMP_NO_PDF": "Component without PDF",
+      "FOLDING_BOX": "Folding box",
+      "LABEL": "Label",
+      "LABEL_SOLVENT": "Label solvent",
+      "LEAFLET": "Leaflet",
+      "LIDDING_FOIL": "Lidding foil"
+    }
+  },
+  "table": {
+    "tableName": "COORDINATION_COCKPIT",
+    "selectedVariant": {
+      "variantId": 0,
+      "variantName": "Default",
+      "readOnly": true,
+      "itemsPerPage": 20,
+      "globalFilterValue": null,
+      "columns": [
+        {
+          "name": "iconName",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 1,
+          "columnType": "TEXT",
+          "description": "Marker",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "requestNumber",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 2,
+          "columnType": "NUMBER",
+          "description": "Request",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "productFamily",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 3,
+          "columnType": "TEXT",
+          "description": "Product Family",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "packagingSites",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 4,
+          "columnType": "TEXT",
+          "description": "Packaging Site",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "country",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 5,
+          "columnType": "TEXT",
+          "description": "Country",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "requestPriority",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 6,
+          "columnType": "TEXT",
+          "description": "Priority",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "requestType",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 7,
+          "columnType": "TEXT",
+          "description": "Request Type",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "requestStatus",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 8,
+          "columnType": "TEXT",
+          "description": "Status",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "requestPhase",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 9,
+          "columnType": "TEXT",
+          "description": "Request Phase",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "receivedDate",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 10,
+          "columnType": "DATE",
+          "description": "Received Date",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "targetBoaDeploymentDate",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 11,
+          "columnType": "DATE",
+          "description": "Target Boa Deployment Date",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "targetBoaDeploymentDateDelayed",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 12,
+          "columnType": "BOOLEAN",
+          "description": "Target Boa Deployment Date Delayed",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "boaDeployed",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 13,
+          "columnType": "TEXT",
+          "description": "Boa Deployed",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "fgNumber",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 14,
+          "columnType": "TEXT",
+          "description": "FG",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "ppmNumber",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 15,
+          "columnType": "TEXT",
+          "description": "PPM",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "presentation",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 16,
+          "columnType": "TEXT",
+          "description": "Presentation",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "packagingMakeups",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 17,
+          "columnType": "TEXT",
+          "description": "Packaging Makeup",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "owner",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 18,
+          "columnType": "TEXT",
+          "description": "Owner",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "creationDate",
+          "sorted": "DESC",
+          "visible": true,
+          "order": 19,
+          "columnType": "DATE",
+          "description": "Creation Date",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "acnNumber",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 20,
+          "columnType": "TEXT",
+          "description": "ACN",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "delayed",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 21,
+          "columnType": "BOOLEAN",
+          "description": "Delayed Requests",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "riskApproach",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 22,
+          "columnType": "BOOLEAN",
+          "description": "Risk Approach",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "reasonForRequest",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 23,
+          "columnType": "TEXT",
+          "description": "Reason for Request",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "impactedPpmTypes",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 24,
+          "columnType": "TEXT",
+          "description": "Impacted PPM Type",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "productInternationalNames",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 25,
+          "columnType": "TEXT",
+          "description": "Product International Name",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "cdsDetail",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 26,
+          "columnType": "TEXT",
+          "description": "CDS Detail",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "trackwiseNumber",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 27,
+          "columnType": "TEXT",
+          "description": "Frackwise Number",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+<<<<<<< HEAD
+          "name": "globalSubmissionNumber",
+=======
+          "name": "globalSubmissioNumber",
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+          "sorted": "NONE",
+          "visible": true,
+          "order": 28,
+          "columnType": "TEXT",
+          "description": "Global Submission Number",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "numberOfNotes",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 29,
+          "columnType": "NUMBER",
+          "description": "Note",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "numberOfPendingActions",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 30,
+          "columnType": "TEXT",
+          "description": "Number of pending Actions",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "numberOfTriggeredTasks",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 31,
+          "columnType": "TEXT",
+          "description": "Number of triggered Tasks",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "nextOrder",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 32,
+          "columnType": "TEXT",
+          "description": "Next Order",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "log",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 33,
+          "columnType": "TEXT",
+          "description": "Log",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "ownership",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 34,
+          "columnType": "BOOLEAN",
+          "description": "Ownership",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "bundled",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 35,
+          "columnType": "BOOLEAN",
+          "description": "Bundled",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "submissionId",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 36,
+          "columnType": "TEXT",
+          "description": "Submission Id",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "finalAssessment",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 37,
+          "columnType": "BOOLEAN",
+          "description": "Final Assessment",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "withdrawalDecision",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 38,
+          "columnType": "BOOLEAN",
+          "description": "Withdrawal Decision",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "cancellationDecision",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 39,
+          "columnType": "BOOLEAN",
+          "description": "Cancellation Decision",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "delegatedBy",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 40,
+          "columnType": "TEXT",
+          "description": "Delegated by",
+          "dictionary": false,
+          "businessData": false
+        }
+      ],
+      "filters": [
+        {
+          "name": "iconName",
+          "selectedValues": [],
+          "visible": false,
+          "order": 4,
+          "filterType": "DROP_DOWN",
+          "description": "Marker",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "requestNumber",
+          "selectedValues": [],
+          "visible": true,
+          "order": 1,
+          "filterType": "TEXT",
+          "description": "Request",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {}
+        },
+        {
+          "name": "productFamily",
+          "selectedValues": [],
+          "visible": true,
+          "order": 2,
+          "filterType": "DROP_DOWN",
+          "description": "Product Family",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {
+            "16384": "ACTEMRA",
+            "17356": "ERIVEDGE",
+            "01956": "VALIUM",
+            "16333": "PERJETA",
+            "17089": "GAZYVA",
+            "02049": "ROCEPHIN",
+            "19073": "ESBRIET",
+            "10807": "MABTHERA",
+            "00143": "BACTRIM",
+            "03703": "DORMICUM",
+            "30190": "NEORECORMON",
+            "04297": "ANEXATE",
+            "30166": "ALDACTONE",
+            "10815": "XELODA",
+            "30042": "DILATREND",
+            "30174": "BONDRONAT",
+            "07881": "XENICAL",
+            "16678": "ALEGLITAZAR",
+            "07490": "ZENAPAX",
+            "11269": "HERCEPTIN",
+            "16449": "AVASTIN"
+          }
+        },
+        {
+          "name": "packagingSites",
+          "selectedValues": [],
+          "visible": false,
+          "order": 5,
+          "filterType": "DROP_DOWN",
+          "description": "Packaging Site",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "120103": "F HOFFMANN-LA ROCHE AG Switzerland",
+            "160901": "ROCHE FARMA SA Spain",
+            "10011453": "CENEXI SAS France",
+            "129800": "ROCHE PHARMA AG Germany",
+            "10002014": "PATHEON INC Canada",
+            "175311": "SHANGHAI ROCHE PHARMACEUTICALS LTD China",
+            "616611": "ROCHE DIAGNOSTICS GMBH Germany",
+            "10006568": "ANDERSONBRECON UK LTD United Kingdom",
+            "100004": "GENENTECH INC USA",
+            "10012271": "ANDREANI LOGISTICA SA Argentina",
+            "261901": "PROD ROCHE QUIMICOS & FARMACOS SA Brazil",
+            "10007705": "GP GRENZACH PRODUKTIONS GMBH Germany"
+          }
+        },
+        {
+          "name": "country",
+          "selectedValues": [],
+          "visible": true,
+          "order": 3,
+          "filterType": "DROP_DOWN",
+          "description": "Country",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {
+            "DE": "Germany",
+            "BE": "Belgium",
+            "CH": "Switzerland",
+            "AF": "Afghanistan",
+            "DK": "Denmark",
+            "CL": "Chile",
+            "HR": "Croatia",
+            "AL": "Albania",
+            "CN": "China",
+            "FR": "France",
+            "KZ": "Kazakhstan",
+            "BR": "Brazil",
+            "AR": "Argentina",
+            "BS": "Bahamas",
+            "AT": "Austria",
+            "AU": "Australia",
+            "DZ": "Algeria",
+            "AW": "Aruba",
+            "PL": "Poland",
+            "CA": "Canada",
+            "US": "USA"
+          }
+        },
+        {
+          "name": "requestPriority",
+          "selectedValues": [],
+          "visible": false,
+          "order": 6,
+          "filterType": "DROP_DOWN",
+          "description": "Priority",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "VERY_HIGH": "Very High",
+            "HIGH": "High",
+            "MEDIUM": "Medium",
+            "LOW": "Low"
+          }
+        },
+        {
+          "name": "requestType",
+          "selectedValues": [],
+          "visible": false,
+          "order": 7,
+          "filterType": "DROP_DOWN",
+          "description": "Request Type",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "ROCHE_INITIATED_NON_CDS_NON_SAFETY": "Roche Initiated - Non CDS - Non Safety",
+            "CDS_UPDATE_NON_SAFETY": "CDS Update - Non Safety",
+            "CDS_UPDATE_URGENT_SAFETY": "CDS Update - Urgent Safety",
+            "ROCHE_INITIATED_NON_CDS_SAFETY": "Roche Initiated - Non CDS - Safety",
+            "PACKAGING_SITE_CHANGES_NON_TRIC": "Packaging Site Changes - Non TRIC",
+            "CDS_UPDATE_STANDARD_SAFETY": "CDS Update - Standard Safety",
+            "HA_REQUEST": "HA Request",
+            "DIVESTMENT": "Divestment",
+            "VARIABLE_DATA": "Variable data",
+            "TRIC": "TRIC"
+          }
+        },
+        {
+          "name": "requestStatus",
+          "selectedValues": [],
+          "visible": false,
+          "order": 8,
+          "filterType": "DROP_DOWN",
+          "description": "Status",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "IN_PROGRESS": "In Progress",
+            "WITHDRAWN": "Withdrawn",
+            "CANCELLED": "Cancelled",
+            "CREATED": "Created",
+            "CLOSED": "Closed",
+            "INITIATED": "Initiated"
+          }
+        },
+        {
+          "name": "requestPhase",
+          "selectedValues": [],
+          "visible": false,
+          "order": 9,
+          "filterType": "DROP_DOWN",
+          "description": "Request Phase",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "IN_DETAILING": "In Detailing",
+            "DEPLOYED": "Deployed",
+            "IN_ASSESSMENT": "In Assessment",
+            "IMPLEMENTATION": "Implementation",
+            "IN_APPROVAL": "In Approval",
+            "IN_DRAFT": "In Draft",
+            "IN_CREATION": "In Creation",
+            "IN_DEPLOYMENT": "In Deployment"
+          }
+        },
+        {
+          "name": "receivedDate",
+          "selectedValues": [],
+          "visible": false,
+          "order": 10,
+          "filterType": "DATE",
+          "description": "Received Date",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "targetBoaDeploymentDate",
+          "selectedValues": [],
+          "visible": false,
+          "order": 11,
+          "filterType": "DATE",
+          "description": "Target Boa Deployment Date",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "targetBoaDeploymentDateDelayed",
+          "selectedValues": [],
+          "visible": false,
+          "order": 12,
+          "filterType": "CHECK_BOX",
+          "description": "Target Boa Deployment Date Delayed",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "boaDeployed",
+          "selectedValues": [],
+          "visible": false,
+          "order": 13,
+          "filterType": "NONE",
+          "description": "Boa Deployed",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "fgNumber",
+          "selectedValues": [],
+          "visible": false,
+          "order": 14,
+          "filterType": "DROP_DOWN",
+          "description": "FG",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "ppmNumber",
+          "selectedValues": [],
+          "visible": false,
+          "order": 15,
+          "filterType": "DROP_DOWN",
+          "description": "PPM",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "presentation",
+          "selectedValues": [],
+          "visible": false,
+          "order": 16,
+          "filterType": "DROP_DOWN",
+          "description": "Presentation",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "1648403": "DORMICUM L-TAB 15MG   DDP   30",
+            "0502707": "BACTRIM FORTETAB 800+160DDP2X5",
+            "1390120": "ZENAPAX VIAL 5ML 25MG        3",
+            "0580169": "HERCEPTIN ENHANZED CARTRIGES 600MG/5ML1",
+            "0580200": "ACTEMRA ASSD 162 MG/0.9 ML 4",
+            "0580163": "VISMODEGIB CAPSULES (HARD) 150 MG 28",
+            "0561045": "ACTEMRA VIALS 200 MG/10 ML 4",
+            "1642421": "DORMICUM L-TAB  7,5MG DDP10X10",
+            "0566853": "BONDRONAT VIAL 6ML / 6MG 1",
+            "1396234": "HERCEPTIN MD VIAL 440MG      1",
+            "1395025": "MABTHERA VIALS 100MG / 10ML 1",
+            "1395661": "DORMICUM AMP 5ML  5MG       10",
+            "1651005": "ANEXATE AMP 10ML 1MG         5",
+            "0550671": "ROCEPHIN VIAL 500MG IV 1",
+            "0580179": "HERCEPTIN VIALS 600 MG/5 ML 1",
+            "0511137": "DILATREND(QUERTO)TAB 12,5MG DDP    28",
+            "1641247": "ROCEPHIN VIALS 1G          5X1",
+            "0580218": "HUMAB CD20 VIALS 1000 MG/40 ML 1",
+            "1392190": "XELODA L-TAB 500MG DDP120",
+            "0561037": "ACTEMRA VIALS 80 MG/4 ML 4",
+            "0561061": "ACTEMRA VIALS 400 MG/20 ML 4",
+            "0575704": "SOLV HERCEPTIN AMPFL 20ML",
+            "0571946": "AVASTIN VIALS 400MG 1 (UNLABELLED)",
+            "1398466": "HERCEPTIN VIAL 150MG         1",
+            "1395637": "DORMICUM AMP 3ML 15MG        5",
+            "1651234": "VALIUM TAB  5MG      DDP 10X10",
+            "1652249": "DORMICUM L-TAB  7,5MG DDP   30",
+            "1639315": "ROCEPHIN VIAL50ML2GIVINF     1",
+            "1648381": "DORMICUM L-TAB 15MG   DDP   10",
+            "1392646": "XENICAL CAPS 120MG   DDP 42",
+            "1391755": "ROCEPHIN DUPL.40ML2GIVINF    7",
+            "1699334": "MABTHERA VIALS 500 MG/50 ML 1",
+            "0561029": "ACTEMRA VIALS 80 MG/4 ML 1",
+            "0580227": "ACTEMRA ASDA 162 MG/0.9 ML 12",
+            "0580225": "ACTEMRA ASSD 162 MG/0.9 ML 12",
+            "0580302": "HERCEPTIN LYOPHILIZED VIALS 440 MG 48",
+            "1396498": "DORMICUM VIAL 10ML 50MG      5",
+            "1395564": "DORMICUM AMP 1ML  5MG       10",
+            "0571938": "AVASTIN VIAL 100MG",
+            "1648411": "DORMICUM L-TAB 15MG   DDP10X10",
+            "0561053": "DEMO FOR ACA VIAL 400MG/20ML DEMO",
+            "1699326": "MABTHERA VIAL10ML 100MG      2",
+            "0550736": "ROCEPHIN AQAMP 10ML 1G   IV  1",
+            "0579858": "DEMO FOR ACA VIAL 200MG/10ML DEMO",
+            "1614223": "VALIUM TAB 10MG      DDP    20",
+            "0511153": "DILATREND(QUERTO)TAB 25MG DDP    28",
+            "0580111": "PERJETA LYOPHILIZED VIALS 420 MG / 14 ML 1",
+            "0580276": "ESBRIET CAPS (HARD) 267MG 63",
+            "0580199": "ACTEMRA ASSD 162 MG/0.9 ML 1",
+            "0580198": "ACTEMRA ASDA 162 MG/0.9 ML 4",
+            "1652230": "DORMICUM L-TAB  7,5MG DDP   10",
+            "1643207": "DORMICUM AMP 3ML 15MG        1"
+          }
+        },
+        {
+          "name": "packagingMakeups",
+          "selectedValues": [],
+          "visible": false,
+          "order": 17,
+          "filterType": "DROP_DOWN",
+          "description": "Packaging Makeup",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "DE": "GERMANY",
+            "EFA": "ENGLISH-FRENCH-ARABIC",
+            "BE": "BELGIUM",
+            "CH": "SWITZERLAND",
+            "AR-HER1": "ARGENTINA-COMP.PER/HER",
+            "CL": "CHILE",
+            "CN": "CHINA",
+            "FR": "FRANCE",
+            "CIS": "CIS",
+            "DK-NO-IS": "DENMARK-NORWAY-ICELAND",
+            "EFA-REG": "ENGLISH-FRENCH-ARABIC-REG SAMPLES",
+            "DE-CHU": "GERMANY-CHUGAI",
+            "KZ": "KAZAKHSTAN",
+            "BR": "BRAZIL",
+            "AR": "ARGENTINA",
+            "AT": "AUSTRIA",
+            "AU": "AUSTRALIA",
+            "EC-UY": "ECUADOR-URUGUAY",
+            "CA": "CANADA",
+            "AU-NZ": "AUSTRALIA-NEW ZEALAND",
+            "US": "USA",
+            "UY-BO-PY": "URUGUAY-BOLIVIA-PARAGUAY"
+          }
+        },
+        {
+          "name": "owner",
+          "selectedValues": [],
+          "visible": false,
+          "order": 18,
+          "filterType": "DROP_DOWN",
+          "description": "Owner",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "creationDate",
+          "selectedValues": [],
+          "visible": false,
+          "order": 19,
+          "filterType": "DATE",
+          "description": "Creation Date",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "acnNumber",
+          "selectedValues": [],
+          "visible": false,
+          "order": 20,
+          "filterType": "DROP_DOWN",
+          "description": "ACN",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "delayed",
+          "selectedValues": [],
+          "visible": false,
+          "order": 21,
+          "filterType": "CHECK_BOX",
+          "description": "Delayed Requests",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "riskApproach",
+          "selectedValues": [],
+          "visible": false,
+          "order": 22,
+          "filterType": "CHECK_BOX",
+          "description": "Risk Approach",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "reasonForRequest",
+          "selectedValues": [],
+          "visible": false,
+          "order": 23,
+          "filterType": "TEXT",
+          "description": "Reason for Request",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "impactedPpmTypes",
+          "selectedValues": [],
+          "visible": false,
+          "order": 24,
+          "filterType": "DROP_DOWN",
+          "description": "Impacted PPM Type",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "productInternationalNames",
+          "selectedValues": [],
+          "visible": false,
+          "order": 25,
+          "filterType": "DROP_DOWN",
+          "description": "Product International Name",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "5561": "ERIVEDGE CAPSULES (HARD) 150 MG",
+            "4277": "AVASTIN VIALS 100 MG/4 ML",
+            "4278": "AVASTIN VIALS 400 MG/16 ML",
+            "1180": "DILATREND TABLETS 12.5 MG",
+            "572": "BACTRIM FORTE TABLETS 800/160 MG",
+            "5817": "HERCEPTIN VIALS 600 MG/5 ML",
+            "5818": "HERCEPTIN CARTRIDGES 600 MG/5 ML",
+            "1015": "VALIUM TABLETS 10 MG",
+            "1037": "ZENAPAX VIALS 25 MG/5 ML",
+            "1036": "XELODA F.C. TABLETS 500 MG",
+            "1377": "HERCEPTIN LYOPHILIZED VIALS 150 MG",
+            "1014": "VALIUM TABLETS 5 MG",
+            "1210": "BONDRONAT VIALS 6 MG/6 ML",
+            "1177": "DILATREND TABLETS 25 MG",
+            "899": "ROCEPHIN POWDER VIALS 500 MG",
+            "5577": "PERJETA VIALS 420 MG/14 ML",
+            "559": "ANEXATE AMPOULES 1 MG/10 ML",
+            "5217": "ACTEMRA VIALS 400 MG/20 ML",
+            "6902": "ACTEMRA ASSD 162 MG/0.9 ML",
+            "5218": "ACTEMRA VIALS 200 MG/10 ML",
+            "6901": "ACTEMRA ASDA 162 MG/0.9 ML",
+            "5219": "ACTEMRA VIALS 80 MG/4 ML",
+            "5418": "GAZYVA VIALS 1000 MG/40 ML",
+            "1317": "HERCEPTIN LYOPHILIZED VIALS 440 MG",
+            "1033": "XENICAL CAPSULES (HARD) 120 MG",
+            "1502": "HERCEPTIN SOLVENT VIALS /20 ML",
+            "622": "DORMICUM AMPOULES 15 MG/3 ML",
+            "623": "DORMICUM AMPOULES 5 MG/1 ML",
+            "624": "DORMICUM AMPOULES 5 MG/5 ML",
+            "8417": "ESBRIET CAPSULES (HARD) 267MG",
+            "625": "DORMICUM F.C. TABLETS 7.5 MG",
+            "900": "ROCEPHIN POWDER VIALS 1000 MG",
+            "626": "DORMICUM F.C. TABLETS 15 MG",
+            "901": "ROCEPHIN POWDER VIALS 2000 MG",
+            "629": "DORMICUM AMPOULES 50 MG/10 ML",
+            "805": "MABTHERA VIALS 100 MG/10 ML",
+            "806": "MABTHERA VIALS 500 MG/50 ML"
+          }
+        },
+        {
+          "name": "cdsDetail",
+          "selectedValues": [],
+          "visible": false,
+          "order": 26,
+          "filterType": "DROP_DOWN",
+          "description": "CDS Detail",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "trackwiseNumber",
+          "selectedValues": [],
+          "visible": false,
+          "order": 27,
+          "filterType": "DROP_DOWN",
+          "description": "Frackwise Number",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+<<<<<<< HEAD
+          "name": "globalSubmissionNumber",
+=======
+          "name": "globalSubmissioNumber",
+>>>>>>> 98345587a72eb918ffe80c0eddc2fda8c9982457
+          "selectedValues": [],
+          "visible": false,
+          "order": 28,
+          "filterType": "DROP_DOWN",
+          "description": "Global Submission Number",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "numberOfNotes",
+          "selectedValues": [],
+          "visible": false,
+          "order": 29,
+          "filterType": "TEXT",
+          "description": "Note",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "numberOfPendingActions",
+          "selectedValues": [],
+          "visible": false,
+          "order": 30,
+          "filterType": "NONE",
+          "description": "Number of pending Actions",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "numberOfTriggeredTasks",
+          "selectedValues": [],
+          "visible": false,
+          "order": 31,
+          "filterType": "NONE",
+          "description": "Number of triggered Tasks",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "nextOrder",
+          "selectedValues": [],
+          "visible": false,
+          "order": 32,
+          "filterType": "DROP_DOWN",
+          "description": "Next Order",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "log",
+          "selectedValues": [],
+          "visible": false,
+          "order": 33,
+          "filterType": "DROP_DOWN",
+          "description": "Log",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "ownership",
+          "selectedValues": [],
+          "visible": false,
+          "order": 34,
+          "filterType": "CHECK_BOX",
+          "description": "Ownership",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "bundled",
+          "selectedValues": [],
+          "visible": false,
+          "order": 35,
+          "filterType": "CHECK_BOX",
+          "description": "Bundled",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "submissionId",
+          "selectedValues": [],
+          "visible": false,
+          "order": 36,
+          "filterType": "TEXT",
+          "description": "Submission Id",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "finalAssessment",
+          "selectedValues": [],
+          "visible": false,
+          "order": 37,
+          "filterType": "CHECK_BOX",
+          "description": "Final Assessment",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "withdrawalDecision",
+          "selectedValues": [],
+          "visible": false,
+          "order": 38,
+          "filterType": "CHECK_BOX",
+          "description": "Withdrawal Decision",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "cancellationDecision",
+          "selectedValues": [],
+          "visible": false,
+          "order": 39,
+          "filterType": "CHECK_BOX",
+          "description": "Cancellation Decision",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "delegatedBy",
+          "selectedValues": [],
+          "visible": false,
+          "order": 40,
+          "filterType": "DROP_DOWN",
+          "description": "Delegated by",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        }
+      ]
+    },
+    "possibleVariants": [
+      {
+        "variantId": 0,
+        "variantName": "Default",
+        "readOnly": true,
+        "defaultVariant": true
+      }
+    ]
+  },
+  "origin": "COORDINATION_COCKPIT",
+  "dictionaryPairs": [
+    {
+      "name": "impactedPpmType",
+      "dictionaryClass": null,
+      "enumClass": "com.roche.alpin2.request.model.dict.PpmType",
+      "enum": true
+    }
+  ],
+  "meta": {}
+}

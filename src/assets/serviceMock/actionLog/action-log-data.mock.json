@@ -1,0 +1,1221 @@
+{
+  "items": [
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "28787",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0030",
+      "timestamp": null,
+      "createdBy": {
+        "code": "alpint06",
+        "label": "Johnny Bravo"
+      },
+      "userLocation": null,
+      "userRole": null,
+      "step": {
+        "code": "Request_Update",
+        "label": "Request update"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "REQUEST_UPDATE",
+        "label": "Request Update"
+      },
+      "requestNumber": 201767,
+      "userId": null,
+      "action": "Update Request",
+      "description": "Request 201767 was updated",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": {
+        "code": "EFA",
+        "label": "ENGLISH-FRENCH-ARABIC"
+      },
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "gprsBundleId",
+          "oldValue": 1519372172401,
+          "newValue": 1519372175401,
+          "type": "DATE_TIME"
+        }
+      ],
+      "origin": "ACTION_LOG",
+      "instanceID": "28787"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "28835",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0060",
+      "timestamp": 1519206951125,
+      "createdBy": {
+        "code": "sobalak",
+        "label": "Kamil Sobala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "Cancel_Request",
+        "label": "Request was cancelled"
+      },
+      "gxpRelevant": false,
+      "phase": {
+        "code": "CANCEL_REQUEST",
+        "label": "Cancel a request"
+      },
+      "requestNumber": 202277,
+      "userId": null,
+      "action": "Cancel Request",
+      "description": "Request 202277 was cancelled.",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": {
+        "code": "EFA",
+        "label": "ENGLISH-FRENCH-ARABIC"
+      },
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "gprsBundleId",
+          "oldValue": 1519372172401,
+          "newValue": 1519372175401,
+          "type": "DATE"
+        }
+      ],      "origin": "ACTION_LOG",
+      "instanceID": "28835"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "28836",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0030",
+      "timestamp": null,
+      "createdBy": {
+        "code": "sobalak",
+        "label": "Kamil Sobala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "Request_Update",
+        "label": "Request update"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "REQUEST_UPDATE",
+        "label": "Request Update"
+      },
+      "requestNumber": 202277,
+      "userId": null,
+      "action": "Update Request",
+      "description": "Request 202277 was updated",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": {
+        "code": "EFA",
+        "label": "ENGLISH-FRENCH-ARABIC"
+      },
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "status",
+          "oldValue": "Created",
+          "newValue": "Cancelled",
+          "type": "BOOLEAN"
+        }
+      ],
+      "origin": "ACTION_LOG",
+      "instanceID": "28836"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29117",
+      "level": {
+        "code": "PPM",
+        "label": "PPM"
+      },
+      "itemId": null,
+      "logId": "LOG-0220",
+      "timestamp": 1519314643317,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "UnknownStep",
+        "label": "Unknown Step"
+      },
+      "gxpRelevant": false,
+      "phase": {
+        "code": "UNKNOWN",
+        "label": "Unknown"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Add FG from current SCC to TC (Request dependent, before confirmation)",
+      "description": "FG 10175979, HER VILY 150MG/0ML IV 1 DE added to TC, before TC confirmed",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": {
+        "code": "DE",
+        "label": "GERMANY"
+      },
+      "presentation": {
+        "code": "1398466",
+        "label": "HERCEPTIN LYOPHILIZED VIALS 150 MG 1"
+      },
+      "fgNumber": "10175979",
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": "HER VILY 150MG/0ML IV 1 DE",
+      "changes": [],
+      "origin": "ACTION_LOG",
+      "instanceID": "29117"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29118",
+      "level": {
+        "code": "PPM",
+        "label": "PPM"
+      },
+      "itemId": null,
+      "logId": "LOG-0220",
+      "timestamp": 1519314643336,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "UnknownStep",
+        "label": "Unknown Step"
+      },
+      "gxpRelevant": false,
+      "phase": {
+        "code": "UNKNOWN",
+        "label": "Unknown"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Add FG from current SCC to TC (Request dependent, before confirmation)",
+      "description": "FG 10183212, HER VILY 150MG/0ML IV 1 DE added to TC, before TC confirmed",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": {
+        "code": "DE",
+        "label": "GERMANY"
+      },
+      "presentation": {
+        "code": "1398466",
+        "label": "HERCEPTIN LYOPHILIZED VIALS 150 MG 1"
+      },
+      "fgNumber": "10183212",
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": "HER VILY 150MG/0ML IV 1 DE",
+      "changes": [],
+      "origin": "ACTION_LOG",
+      "instanceID": "29118"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29122",
+      "level": {
+        "code": "PPM",
+        "label": "PPM"
+      },
+      "itemId": null,
+      "logId": "LOG-0270",
+      "timestamp": 1519314690835,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "UnknownStep",
+        "label": "Unknown Step"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "UNKNOWN",
+        "label": "Unknown"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Define type of change (content, dimension, layout change) on PPM level",
+      "description": "request and ppm material",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": {
+        "code": "DE-B",
+        "label": "GERMANY-PREPRESS BASEL"
+      },
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "gprsBundleId",
+          "oldValue": true,
+          "newValue": false,
+          "type": "BOOLEAN"
+        }
+      ],      "origin": "ACTION_LOG",
+      "instanceID": "29122"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29107",
+      "level": {
+        "code": "BPM",
+        "label": "BPM"
+      },
+      "itemId": null,
+      "logId": "LOG-1200",
+      "timestamp": 1519305686277,
+      "createdBy": {
+        "code": "jaszczug",
+        "label": "Grzegorz Jaszczura"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "PDF_UC020_ProofRead",
+        "label": "Proof Read"
+      },
+      "gxpRelevant": false,
+      "phase": {
+        "code": "PDF_CREATION",
+        "label": "Pdf Creation"
+      },
+      "requestNumber": 202271,
+      "userId": null,
+      "action": "Task Delegated",
+      "description": "Task Proof Read has been delegated by Grzegorz Jaszczura to Oskar Straczkowski",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [],
+      "origin": "ACTION_LOG",
+      "instanceID": "29107"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29108",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0030",
+      "timestamp": null,
+      "createdBy": {
+        "code": "wegners2",
+        "label": "Stefan Goepfert"
+      },
+      "userLocation": "Basel",
+      "userRole": null,
+      "step": {
+        "code": "Request_Update",
+        "label": "Request update"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "REQUEST_UPDATE",
+        "label": "Request Update"
+      },
+      "requestNumber": 202283,
+      "userId": null,
+      "action": "Update Request",
+      "description": "Request 202283 was updated",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "owner",
+          "oldValue": "luckom",
+          "newValue": "wegners2",
+          "type": "TEXT"
+        }
+      ],
+      "origin": "ACTION_LOG",
+      "instanceID": "29108"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29109",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0010",
+      "timestamp": 1519314552600,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "REQUEST_CREATION",
+        "label": "Request creation"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "IN_DRAFT",
+        "label": "In Draft"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Create Request",
+      "description": "Request 202285 was created",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [],
+      "origin": "ACTION_LOG",
+      "instanceID": "29109"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29110",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0030",
+      "timestamp": null,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "Request_Update",
+        "label": "Request update"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "REQUEST_UPDATE",
+        "label": "Request Update"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Update Request",
+      "description": "Request 202285 was updated",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "typeOfClockStartForGracePeriod",
+          "oldValue": null,
+          "newValue": "OK for Execution Date",
+                    "type": "TEXT"
+        },
+        {
+          "fieldName": "submissionChangeImpacts",
+          "oldValue": "31098",
+          "newValue": null,
+                    "type": "TEXT"
+        },
+        {
+          "fieldName": "clockStartDate",
+          "oldValue": null,
+          "newValue": 1519372410060,
+ "type": "DATE_TIME"
+
+        }
+      ],
+      "origin": "ACTION_LOG",
+      "instanceID": "29110"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29111",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0030",
+      "timestamp": 1519314571849,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "REQUEST_CREATION",
+        "label": "Request creation"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "IN_DRAFT",
+        "label": "In Draft"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Update Request",
+      "description": "Request 202285 was updated",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [],
+      "origin": "ACTION_LOG",
+      "instanceID": "29111"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29161",
+      "level": {
+        "code": "BPM",
+        "label": "BPM"
+      },
+      "itemId": null,
+      "logId": "LOG-1210",
+      "timestamp": 1519314976192,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "RET_UC060_RegulatoryDetailing",
+        "label": "RequestTask Regulatory Detailing"
+      },
+      "gxpRelevant": false,
+      "phase": {
+        "code": "REQUEST_CREATION",
+        "label": "Request Creation"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Task Claimed",
+      "description": "Task RequestTask Regulatory Detailing has been claimed by Marcin Domagala",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [],
+      "origin": "ACTION_LOG",
+      "instanceID": "29161"
+    },
+    {
+      "iconName": null,
+      "readFlag": false,
+      "userSpecificAttributes": {},
+      "id": "29171",
+      "level": {
+        "code": "REQUEST",
+        "label": "REQUEST"
+      },
+      "itemId": null,
+      "logId": "LOG-0030",
+      "timestamp": null,
+      "createdBy": {
+        "code": "domagalm",
+        "label": "Marcin Domagala"
+      },
+      "userLocation": "Warsaw",
+      "userRole": null,
+      "step": {
+        "code": "Request_Update",
+        "label": "Request update"
+      },
+      "gxpRelevant": true,
+      "phase": {
+        "code": "REQUEST_UPDATE",
+        "label": "Request Update"
+      },
+      "requestNumber": 202285,
+      "userId": null,
+      "action": "Update Request",
+      "description": "Request 202285 was updated",
+      "acnNumber": null,
+      "ppmNumber": null,
+      "makeup": null,
+      "presentation": null,
+      "fgNumber": null,
+      "jsonData": null,
+      "ppmDescription": null,
+      "fgDescription": null,
+      "changes": [
+        {
+          "fieldName": "phase",
+          "oldValue": "In Detailing",
+          "newValue": "In Creation",
+          "type": "TEXT"
+
+        }
+      ],
+      "origin": "ACTION_LOG",
+      "instanceID": "29171"
+    }
+  ],
+  "possibleIcons": [],
+  "dictionaries": {},
+  "table": {
+    "tableName": "ACTION_LOG",
+    "selectedVariant": {
+      "variantId": 0,
+      "variantName": "Default",
+      "readOnly": true,
+      "itemsPerPage": 20,
+      "globalFilterValue": null,
+      "columns": [
+        {
+          "name": "level",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 1,
+          "columnType": "TEXT",
+          "description": "Level",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "itemId",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 2,
+          "columnType": "TEXT",
+          "description": "ID",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "logId",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 3,
+          "columnType": "TEXT",
+          "description": "Log ID",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "timestamp",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 4,
+          "columnType": "DATE_TIME",
+          "description": "Log Date",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "createdBy",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 5,
+          "columnType": "TEXT",
+          "description": "User",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "userLocation",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 6,
+          "columnType": "TEXT",
+          "description": "Location",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "userRole",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 7,
+          "columnType": "TEXT",
+          "description": "User Role",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "step",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 8,
+          "columnType": "TEXT",
+          "description": "Process Step",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "gxpRelevant",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 9,
+          "columnType": "BOOLEAN",
+          "description": "GxP Relevant",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "phase",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 10,
+          "columnType": "TEXT",
+          "description": "Process Phase",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "requestNumber",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 11,
+          "columnType": "NUMBER",
+          "description": "Request",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "action",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 12,
+          "columnType": "TEXT",
+          "description": "Action",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "description",
+          "sorted": "NONE",
+          "visible": true,
+          "order": 13,
+          "columnType": "TEXT",
+          "description": "Description",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "acnNumber",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 14,
+          "columnType": "NUMBER",
+          "description": "ACN",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "ppmNumber",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 15,
+          "columnType": "TEXT",
+          "description": "Ppm Number",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "makeup",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 16,
+          "columnType": "TEXT",
+          "description": "Makeup",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "presentation",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 17,
+          "columnType": "TEXT",
+          "description": "Presentation",
+          "dictionary": true,
+          "businessData": false
+        },
+        {
+          "name": "fgNumber",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 18,
+          "columnType": "TEXT",
+          "description": "FG",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "ppmDescription",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 19,
+          "columnType": "TEXT",
+          "description": "PPM Description",
+          "dictionary": false,
+          "businessData": false
+        },
+        {
+          "name": "fgDescription",
+          "sorted": "NONE",
+          "visible": false,
+          "order": 20,
+          "columnType": "TEXT",
+          "description": "FG Description",
+          "dictionary": false,
+          "businessData": false
+        }
+      ],
+      "filters": [
+        {
+          "name": "level",
+          "selectedValues": [],
+          "visible": false,
+          "order": 5,
+          "filterType": "DROP_DOWN",
+          "description": "Level",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "BOM": "BOM",
+            "FG": "FG",
+            "PDF": "PDF",
+            "REQUEST": "REQUEST",
+            "BOA": "BOA",
+            "RESTRICTION": "RESTRICTION",
+            "UNKNOWN": "UNKNOWN",
+            "ACN": "ACN",
+            "PPM": "PPM",
+            "BPM": "BPM"
+          }
+        },
+        {
+          "name": "itemId",
+          "selectedValues": [],
+          "visible": false,
+          "order": 6,
+          "filterType": "TEXT",
+          "description": "ID",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "logId",
+          "selectedValues": [],
+          "visible": false,
+          "order": 7,
+          "filterType": "TEXT",
+          "description": "Log ID",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "timestamp",
+          "selectedValues": [],
+          "visible": true,
+          "order": 2,
+          "filterType": "DATE",
+          "description": "Log Date",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {}
+        },
+        {
+          "name": "createdBy",
+          "selectedValues": [],
+          "visible": true,
+          "order": 3,
+          "filterType": "TEXT",
+          "description": "User",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {}
+        },
+        {
+          "name": "userLocation",
+          "selectedValues": [],
+          "visible": false,
+          "order": 8,
+          "filterType": "TEXT",
+          "description": "Location",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "userRole",
+          "selectedValues": [],
+          "visible": false,
+          "order": 9,
+          "filterType": "DROP_DOWN",
+          "description": "User Role",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "step",
+          "selectedValues": [],
+          "visible": false,
+          "order": 10,
+          "filterType": "DROP_DOWN",
+          "description": "Process Step",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "BOM_UC130_ActivateBom": "Activate BOM",
+            "BA_1C0030_CompareBoM": "Approve BoM",
+            "BOM_UC020_CompleteBom": "Complete BoM",
+            "PDF_UC020_ProofRead": "Proof Read",
+            "RET_UC020_TechnicalAssessment": "RequestTask Technical Assessment",
+            "AWF_UC010_ApprovalOfPdfForHaSubmission": "Approval of PDF for HA Submission",
+            "PDF_UC025_SendTask": "Send Task",
+            "REQUEST_CANCEL": "Request cancellation",
+            "AWF_UC030_RegulatoryPdfApproval": "Regulatory PDF Approval",
+            "Request_Submit": "Request submit",
+            "Agree_On_Cancellation": "Request Cancellation was approved",
+            "CCRD_UC130_FgRemoval": "test",
+            "PA02_BoAPdf_RegulatoryApproval": "BoA/Pdf Regulatory Approval",
+            "AWF_UC050_AwRequestQualityApproval": "Artwork Request Quality Approval",
+            "REQUEST_CREATION": "Request creation",
+            "BOM_UC050_RereadOrder": "Reread Order",
+            "Request_Creation": "Request creation",
+            "DETAILING": "Detailing",
+            "AWF_UC060_BoaAcknowledgement": "BoA Acknowledgement",
+            "Cancel_Request": "Request was cancelled",
+            "BOM_UC040_ApproveBom": "Approve BOM",
+            "PA03_BoA_QAApproval": "BoA QA Approval",
+            "RET_UC040_MaintainLocalMD": "RequestTask Maintain Local MD",
+            "Request_Cancellation": "Request cancellation",
+            "RET_UC010_AdditionalInfo": "RequestTask Additional Information",
+            "AWF_UC040_RegulatoryBoaApproval": "Regulatory BoA Approval",
+            "PDF_UC010_CreatePdf": "Create Pdf",
+            "BOM_UC100_CompleteCmoBomMbr": "Complete CMO BOM/MBR",
+            "BOM_UC090_EnterBomDate": "Enter BoM Date",
+            "BOM_UC110_ConfirmCmoBomMbr": "Confirm CMO BOM/MBR",
+            "BOM_UC060_CreateUpdateMBR": "Confirm MBR",
+            "PA01_BoAPdf_TechnicalApproval": "BoA/Pdf Technical Approval",
+            "BOM_UC010_ConfirmBomDate": "Confirm BoM Date",
+            "RET_UC060_RegulatoryDetailing": "RequestTask Regulatory Detailing",
+            "Acn_Close_or_Cancel": "Acn closing or cancellation",
+            "UnknownStep": "Unknown Step",
+            "Reject_On_Withdrawal": "Request Withdrawal was rejected",
+            "BOM_UC070_ApproveMBR": "Approve MBR",
+            "BA_1C0020_CompleteBoM": "Complete BoM",
+            "BOM_UC030_UpdateMasterData": "Update Master Data",
+            "Reject_On_Cancellation": "Request Cancellation was rejected",
+            "BOM_UC120_ChangeCmoVariableData": "Change CMO Variable Data",
+            "Agree_On_Withdrawal": "Request Withdrawal was approved",
+            "Request_Withdrawal": "Request withdrawal",
+            "REQUEST_WITHDRAWN": "Request withdrawal",
+            "PDF_UC030_UploadPdf": "Upload Pdf",
+            "Request_Update": "Request update",
+            "BOM_UC080_UpdateVariableData": "Update Variable Data",
+            "RET_UC030_TechnicalDetailing": "RequestTask Technical Detailing",
+            "Request_Remove_FG_From_TC": "Remove Finished Good from Target Configuration",
+            "AWF_UC020_TechnicalApprovalPdfBoa": "Technical Approval (PDF/BoA)",
+            "ASSESSMENT": "Assessment"
+          }
+        },
+        {
+          "name": "gxpRelevant",
+          "selectedValues": [],
+          "visible": false,
+          "order": 11,
+          "filterType": "CHECK_BOX",
+          "description": "GxP Relevant",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "phase",
+          "selectedValues": [],
+          "visible": false,
+          "order": 12,
+          "filterType": "DROP_DOWN",
+          "description": "Process Phase",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "SET_BOM_VALID_FROM_DATE_FOR_CMO": "Set BOM Valid From Date for CMO",
+            "BOA_QA_APPROVAL": "Boa QA Approval",
+            "IN_ASSESSMENT": "In Assessment",
+            "PDF_CREATION": "Pdf Creation",
+            "PDF_REGULATORY_APPROVAL": "Pdf Regulatory Approval",
+            "DECIDE_ON_WITHDRAWAL": "Decide on withdrawal",
+            "REQUEST_SUBMIT": "Request Submit",
+            "REQUEST_CREATION": "Request Creation",
+            "IN_APPROVAL": "In Approval",
+            "IN_CREATION": "In Creation",
+            "DECIDE_ON_CANCELLATION": "Decide on cancellation",
+            "IN_DETAILING": "In Detailing",
+            "REQUEST_CANCELLATION": "Request Cancellation",
+            "BOM_ACTIVATION": "Bom Implementation",
+            "BOA_ACKNOWLEDGEMENT_APPROVAL": "Boa Acknowledgement Approval",
+            "DEPLOYED": "Deployed",
+            "BOA_PDF_TECHNICAL_APPROVAL": "Boa/Pdf Technical Approval",
+            "REQUEST_UPDATE": "Request Update",
+            "CANCEL_REQUEST": "Cancel a request",
+            "BOA_APPROVAL": "BoA Approval",
+            "UNKNOWN": "Unknown",
+            "IN_DRAFT": "In Draft",
+            "REQUEST_WITHDRAWAL": "Request Withdrawal",
+            "BOA_REGULATORY_APPROVAL": "Boa Regulatory Approval",
+            "IN_DEPLOYMENT": "In Deployment"
+          }
+        },
+        {
+          "name": "requestNumber",
+          "selectedValues": [],
+          "visible": true,
+          "order": 1,
+          "filterType": "TEXT",
+          "description": "Request",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {}
+        },
+        {
+          "name": "action",
+          "selectedValues": [],
+          "visible": false,
+          "order": 13,
+          "filterType": "DROP_DOWN",
+          "description": "Action",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "description",
+          "selectedValues": [],
+          "visible": false,
+          "order": 14,
+          "filterType": "TEXT",
+          "description": "Description",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "acnNumber",
+          "selectedValues": [],
+          "visible": true,
+          "order": 4,
+          "filterType": "TEXT",
+          "description": "ACN",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": true,
+          "values": {}
+        },
+        {
+          "name": "ppmNumber",
+          "selectedValues": [],
+          "visible": false,
+          "order": 15,
+          "filterType": "TEXT",
+          "description": "Ppm Number",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "makeup",
+          "selectedValues": [],
+          "visible": false,
+          "order": 16,
+          "filterType": "DROP_DOWN",
+          "description": "Makeup",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "DIV": "DIVESTMENT",
+            "BR": "BRAZIL",
+            "EFA": "ENGLISH-FRENCH-ARABIC",
+            "DE": "GERMANY",
+            "DE-AT": "GERMANY-AUSTRIA",
+            "G": "GERMAN",
+            "DE-B": "GERMANY-PREPRESS BASEL",
+            "UN": "UNIVERSAL",
+            "GD": "GERMAN-DUTCH",
+            "DE-CHU": "GERMANY-CHUGAI",
+            "UY-BO-PY": "URUGUAY-BOLIVIA-PARAGUAY"
+          }
+        },
+        {
+          "name": "presentation",
+          "selectedValues": [],
+          "visible": false,
+          "order": 17,
+          "filterType": "DROP_DOWN",
+          "description": "Presentation",
+          "dictionary": true,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {
+            "0580200": "ACTEMRA ASSD 162 MG/0.9 ML 4",
+            "1398466": "HERCEPTIN LYOPHILIZED VIALS 150 MG 1",
+            "1614223": "VALIUM TABLETS 10 MG 20"
+          }
+        },
+        {
+          "name": "fgNumber",
+          "selectedValues": [],
+          "visible": false,
+          "order": 18,
+          "filterType": "TEXT",
+          "description": "FG",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "ppmDescription",
+          "selectedValues": [],
+          "visible": false,
+          "order": 19,
+          "filterType": "TEXT",
+          "description": "PPM Description",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        },
+        {
+          "name": "fgDescription",
+          "selectedValues": [],
+          "visible": false,
+          "order": 20,
+          "filterType": "TEXT",
+          "description": "FG Description",
+          "dictionary": false,
+          "businessData": false,
+          "defaultFilter": false,
+          "values": {}
+        }
+      ]
+    },
+    "possibleVariants": [
+      {
+        "variantId": 0,
+        "variantName": "Default",
+        "readOnly": true,
+        "defaultVariant": true
+      }
+    ]
+  },
+  "origin": "ACTION_LOG",
+  "dictionaryPairs": [],
+  "meta": {}
+}
