@@ -3,6 +3,8 @@ import { BasePageComponent } from '../base/base-page/base-page.component';
 import { LfcService } from './lfc.service'
 import { HttpClient, HttpErrorResponse } from '@angular/common/http'
 import { Observable } from 'rxjs';
+import { ActivatedRoute, Router } from '@angular/router';
+import { BreadService } from '../utils/services/bread.service';
 
 interface UserResponse {
   login: string,
@@ -22,8 +24,11 @@ export class LfcpComponent extends BasePageComponent implements OnInit {
   public persons$: Observable<any>;
   public coverables$: Observable<any>;
 
-  constructor(private lfcService: LfcService) {
-    super();
+  constructor(
+    protected activatedRoute: ActivatedRoute,
+    protected breadService: BreadService,
+    private lfcService: LfcService) {
+    super(activatedRoute, breadService);
   }
 
   ngOnInit() {

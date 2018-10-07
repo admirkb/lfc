@@ -19,3 +19,10 @@
 <p>
   Contact Us Page!
 </p>
+
+<ul>
+  Breadcrumbs
+  <li *ngFor="let breadCrumb of breadCrumbs ; let i = index">
+    {{breadCrumb}}&nbsp;
+  </li>
+</ul>
