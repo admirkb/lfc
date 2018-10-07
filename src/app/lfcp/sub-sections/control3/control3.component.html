@@ -1,3 +1,14 @@
-<p>
-  control3 works!
-</p>
+<div style="width:100%; background:blue; color:white">
+  Coverables
+  </div>
+  
+  <div style="width:300px; ;height:150px; background:yellow;">
+    <div *ngFor="let pdf of items$ | async ; let i = index">
+      <div *ngFor="let xxxx of pdf.coverables ; let i = index">
+        {{xxxx.name}}&nbsp;
+      </div>
+    </div>
+  </div>
+
+
+<br/>

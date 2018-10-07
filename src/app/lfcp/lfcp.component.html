@@ -8,34 +8,34 @@
 
 </ul>
 
-<app-control1></app-control1>
-<app-control2></app-control2>
-<app-control3></app-control3>
-<app-control4 [items$]="pdfHistory$"></app-control4>
+<div style="width:100%; text-align: center;background:transparent">
+  <div style="display:inline-block">
+    <app-control1 [items$]="userData$"></app-control1>
+  </div>
+</div>
+
+<div style="width:100%; text-align: center;background:transparent">
+  <div style="display:inline-block">
+    <app-control2></app-control2>
+  </div>
+</div>
+
+<div style="width:100%; text-align: center;background:transparent">
+  <div style="display:inline-block">
+    <app-control3 [items$]="coverables$"></app-control3>
+  </div>
+</div>
+
+
+<div style="width:100%; text-align: center">
+  <div style="display:inline-block">
+    <app-control4 [items$]="persons$"></app-control4>
+  </div>
+</div>
+
+
+
 
 <!-- {{userData | async | json}} -->
 
-<!-- {{pdfHistory$ | async  | json}} -->
-<!-- {{pdfHistory  | json}} -->
-
-
-<div *ngFor="let pdf of pdfHistory ; let i = index">
-  <div *ngFor="let xxxx of pdf.items ; let i = index">
-    {{xxxx.artusPdfLink | json}}&nbsp;
-  </div>
-</div>
-
-<div *ngFor="let pdf of pdfHistory$ | async ; let i = index">
-  <div *ngFor="let xxxx of pdf.items ; let i = index">
-    {{xxxx.artusPdfLink | json}}&nbsp;
-  </div>
-</div>
-
-<!-- <ul>
-
-  <li *ngFor="let pdf of pdfHistory | async ; let i = index" >
-    {{pdf}}&nbsp;
-  </li>
-
-
-</ul> -->
+<!-- {{persons$ | async  | json}} -->

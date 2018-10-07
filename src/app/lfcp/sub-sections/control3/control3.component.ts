@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 
 @Component({
   selector: 'app-control3',
@@ -6,10 +6,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./control3.component.css']
 })
 export class Control3Component implements OnInit {
-
+  @Input() items$;
   constructor() { }
 
   ngOnInit() {
-  }
 
+    this.items$
+      .subscribe((data) => {
+        console.log("data", data)
+      })
+  }
 }
+

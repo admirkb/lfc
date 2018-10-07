@@ -19,8 +19,8 @@ interface UserResponse {
 })
 export class LfcpComponent extends BasePageComponent implements OnInit {
   public userData$: Observable<UserResponse>;
-  public pdfHistory: any[] = [];
-  public pdfHistory$: Observable<any>;
+  public persons$: Observable<any>;
+  public coverables$: Observable<any>;
 
   constructor(private lfcService: LfcService) {
     super();
@@ -33,26 +33,26 @@ export class LfcpComponent extends BasePageComponent implements OnInit {
     console.log(this.breadCrumbs)
 
     this.userData$ = this.lfcService.getGitHubUsersData()
-    // .subscribe((data) => {
-    //   console.log("Login", data.login)
-    //   console.log("Organizations Url", data.organizations_url)
-    //   console.log("Url", data.url)
-    // },
-    //   (err: HttpErrorResponse) => {
-    //     if (err.error instanceof Error) {
-    //       console.log("Client side error", err)
-    //     } else {
-    //       console.log("Server side error", err)
-    //     }
+    this.persons$ = this.lfcService.getPersonsMock()
+    this.coverables$ = this.lfcService.getCoverablesMock()
 
-    //   });
-
-    this.pdfHistory$ = this.lfcService.getPdfHistoryMock()
-
-    this.lfcService.getPdfHistoryMock()
+    this.lfcService.getPersonsMock()
       .subscribe((data) => {
         console.log("data", data)
-        this.pdfHistory.push(data);
+      },
+        (err: HttpErrorResponse) => {
+          if (err.error instanceof Error) {
+            console.log("Client side error", err)
+          } else {
+            console.log("Server side error", err)
+          }
+
+        });
+
+
+    this.lfcService.getCoverablesMock()
+      .subscribe((data) => {
+        console.log("data", data)
       },
         (err: HttpErrorResponse) => {
           if (err.error instanceof Error) {
@@ -63,5 +63,6 @@ export class LfcpComponent extends BasePageComponent implements OnInit {
 
         });
   }
+
 
 }

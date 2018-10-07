@@ -1,0 +1,17 @@
+[
+    {
+        "coverables": [
+            {
+                "coverableId": "1",
+                "name": "Rings",
+                "timestamp": 1514986198951
+            },
+            {
+                "coverableId": "2",
+                "name": "Watch",
+                "timestamp": 1514986198951
+            }
+        ],
+        "name": "persons"
+    }
+]

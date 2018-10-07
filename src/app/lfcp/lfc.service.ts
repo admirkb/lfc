@@ -26,7 +26,7 @@ export class LfcService {
 
   }
 
-  getPdfHistoryMock(): Observable<any> {
+  getPersonsMock(): Observable<any> {
 
     // this.http.get('assets/serviceMock/pdf-history/getPdfHistory.json')
     //   .subscribe((data) => {
@@ -42,10 +42,16 @@ export class LfcService {
     //     });
 
     return this.http.get<any>('assets/serviceMock/pdf-history/getPdfHistory.json');
-
-
   }
+
+  getCoverablesMock(): Observable<any> {
+
+    return this.http.get<any>('assets/serviceMock/coverables/getCoverables.json');
+  }
+
+
 }
+
 
 
     // this.httpServiceService.get('https://api.github.com/users/admirkb')
